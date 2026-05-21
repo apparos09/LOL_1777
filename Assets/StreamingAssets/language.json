@@ -222,6 +222,227 @@
 
     }
   },
+  "de": {
+    "_stop_": "",
+
+    "gameTitle": "Meteor-Einschlag-Team",
+    "gameTitleShort": "MES",
+
+    "kwd_title": "Titel",
+    "kwd_start": "Start",
+    "kwd_newGame": "Neues Spiel",
+    "kwd_continue": "Weiter",
+    "kwd_instructions": "Anleitung",
+    "kwd_settings": "Einstellungen",
+    "kwd_licenses": "Lizenzen",
+    "kwd_quit": "Beenden",
+
+    "kwd_back": "Zurück",
+
+    "mnu_instructions_dsc": "In diesem Spiel zerstörst du Meteore, indem du Fragen zur Einheitenumrechnung richtig beantwortest. Um mit den Spielelementen zu interagieren, verwende entweder die Maus oder die Touch-Steuerung. Du wählst Bühnen im Weltbereich aus und wählst Umrechnungsergebnisse im Bühnenbereich aus.",
+
+    "kwd_volume": "Lautstärke",
+    "kwd_bgmVolume": "Lautstärke der Hintergrundmusik (BGM)",
+    "kwd_sfxVolume": "Lautstärke der Soundeffekte (SFX)",
+    "kwd_ttsVolume": "Lautstärke der Text-zu-Sprache (TTS)",
+    "kwd_mute": "Stumm",
+    "kwd_textToSpeech": "Text-zu-Sprache",
+    "kwd_tutorial": "Tutorial",
+    "kwd_tutorials": "Tutorials",
+
+    "mnu_licenses_dsc": "Verwendete Assets wurden für die Nutzung in diesem Spiel angepasst.",
+    "kwd_bgms": "BGM",
+    "kwd_sfxs": "SFX",
+    "kwd_fonts": "Schriftarten",
+
+
+    "kwd_units": "Einheiten",
+    "kwd_unitsInfo": "Einheiteninfo",
+
+
+    "kwd_save": "Speichern",
+    "sve_msg_savingGame": "Wird gespeichert...",
+
+
+    "unt_lengthImperial_nme": "Länge (Imperial)",
+    "unt_lengthImperial_dsc": "Zoll (in), Fuß (ft), Yards (yd)",
+
+    "unt_weightImperial_nme": "Gewicht (Imperial)",
+    "unt_weightImperial_dsc": "Pfund (lb), Unzen (oz)",
+
+    "unt_time_nme": "Zeit",
+    "unt_time_dsc": "Sekunden (secs), Minuten (mins), Stunden (hrs)",
+
+    "unt_lengthMetric_nme": "Länge (Metrisch)",
+    "unt_lengthMetric_dsc": "Millimeter (mm), Zentimeter (cm), Dezimeter (dm), Meter (m), Kilometer (km)",
+
+    "unt_weightMetric_nme": "Gewicht (Metrisch)",
+    "unt_weightMetric_dsc": "Milligramm (mg), Gramm (g) Kilogramm (kg)",
+
+    "unt_capacity_nme": "Fassungsvermögen (Metrisch)",
+    "unt_capacity_dsc": "Liter (l), Milliliter (mL)",
+
+
+    "unt_inches_nme": "Zoll",
+    "unt_inches_sbl": "in",
+    "unt_feet_nme": "Fuß",
+    "unt_feet_sbl": "ft",
+    "unt_yards_nme": "Yards",
+    "unt_yards_sbl": "yd",
+
+    "unt_millimeters_nme": "Millimeter",
+    "unt_millimeters_sbl": "mm",
+    "unt_centimeters_nme": "Zentimeter",
+    "unt_centimeters_sbl": "cm",
+    "unt_decimeters_nme": "Dezimeter",
+    "unt_decimeters_sbl": "dm",
+    "unt_meters_nme": "Meter",
+    "unt_meters_sbl": "m",
+    "unt_kilometers_nme": "Kilometer",
+    "unt_kilometers_sbl": "km",
+
+    "unt_pounds_nme": "Pfund",
+    "unt_pounds_sbl": "lb",
+    "unt_ounces_nme": "Unzen",
+    "unt_ounces_sbl": "oz",
+    "unt_milligrams_nme": "Milligramm",
+    "unt_milligrams_sbl": "mg",
+    "unt_grams_nme": "Gramm",
+    "unt_grams_sbl": "g",
+    "unt_kilograms_nme": "Kilogramm",
+    "unt_kilograms_sbl": "kg",
+
+    "unt_seconds_nme": "Sekunden",
+    "unt_seconds_sbl": "Sek.",
+    "unt_minutes_nme": "Minuten",
+    "unt_minutes_sbl": "Min.",
+    "unt_hours_nme": "Stunden",
+    "unt_hours_sbl": "Std.",
+
+    "unt_milliliters_nme": "Milliliter",
+    "unt_milliliters_sbl": "mL",
+    "unt_liters_nme": "Liter",
+    "unt_liters_sbl": "l",
+
+
+    "kwd_input": "Eingabe",
+    "kwd_output": "Ausgabe",
+    "kwd_switch": "Wechseln",
+
+
+    "kwd_one": "Eins",
+    "kwd_two": "Zwei",
+    "kwd_three": "Drei",
+    "kwd_four": "Vier",
+    "kwd_five": "Fünf",
+
+    "kwd_six": "Sechs",
+    "kwd_seven": "Sieben",
+    "kwd_eight": "Acht",
+    "kwd_nine": "Neun",
+    "kwd_zero": "Null",
+
+    "kwd_decimalPoint": "Dezimalpunkt",
+    "kwd_multiply": "Multiplizieren",
+    "kwd_divide": "Teilen",
+    "kwd_equals": "Gleich",
+
+    "kwd_backspace": "Rücktaste",
+    "kwd_delete": "Löschen",
+    "kwd_clear": "Leeren",
+    "kwd_clear_sbl": "C",
+
+    "kwd_error": "Fehler",
+
+
+    "kwd_world": "Welt",
+    "kwd_stageSelect": "Bühnenauswahl",
+    "kwd_stage": "Bühne",
+
+    "kwd_all": "Alle",
+    "kwd_none": "Keine",
+
+    "stg_mix1_nme": "Mix 1",
+    "stg_mix1_dsc": "Länge (Imperial), Gewicht (Imperial), Zeit",
+
+    "stg_mix2_nme": "Mix 2",
+    "stg_mix2_dsc": "Länge (Metrisch), Gewicht (Metrisch), Fassungsvermögen (Metrisch)",
+
+    "stg_mix3_nme": "Mix 3",
+    "stg_mix3_dsc": "Alle",
+
+
+    "kwd_time": "Zeit",
+    "kwd_score": "Punktzahl",
+    "kwd_points": "Punkte",
+    "kwd_combo": "Kombi",
+    "kwd_highestCombo": "Höchste Kombi",
+    "kwd_restart": "Neu starten",
+    "kwd_speed": "Geschwindigkeit",
+
+
+    "kwd_correct": "Richtig!",
+    "kwd_incorrect": "Falsch!",
+
+
+    "kwd_stageEnd": "Bühnenende",
+    "kwd_stageClear": "Bühne geschafft",
+    "kwd_stageWon": "Bühne gewonnen",
+    "kwd_stageFailed": "Bühne fehlgeschlagen",
+    "kwd_stageLost": "Bühne verloren",
+
+
+    "chr_partnerA_nme": "Reteor",
+    "chr_partnerB_nme": "Astrit",
+
+
+    "trl_intro_00": "Willkommen beim Meteor Strike Team (MST)! Wir verfolgen Meteore und zerstören sie, bevor sie die Erdoberfläche treffen, indem wir größere Maßeinheiten in kleinere Maßeinheiten umwandeln. Das hier ist der Weltbereich, in dem du Bühnen auswählst, Einheiteninformationen ansiehst, die Spieleinstellungen änderst und dein Spiel speicherst. Ich bin Reteor...",
+    "trl_intro_01": "Und ich bin Astrite! Wenn du eine Bühne auswählst, werden dir die Einheiten angezeigt, mit denen du arbeiten wirst. Sobald diese Informationen angezeigt wurden, werden sie dem \"Einheiteninfo-Menü\" hinzugefügt, das mit der \"Einheiteninfo-Schaltfläche\" geöffnet werden kann. Jetzt, da alles erklärt ist, wähle bitte die verfügbare Bühne aus, um mit dem Zerstören von Meteoren zu beginnen!",
+
+    "trl_firstStage_00": "Willkommen im Bühnenbereich, wo du Meteore abschießt. Wenn ein Meteor anvisiert wird, bekommst du eine Umrechnung, die du lösen musst. Wenn die Umrechnung erfolgreich ist, erhältst du Punkte, und sobald du genug Punkte hast, ist die Bühne geschafft. Aber wenn die Erdoberfläche zu viel Schaden nimmt, ist die Bühne verloren.",
+    "trl_firstStage_01": "Meteore werden automatisch anvisiert, aber du kannst auch unbewegliche Meteore manuell anvisieren, indem du auf sie klickst oder sie antippst. Wenn ein Meteor anvisiert wird, werden dir verschiedene Umrechnungsergebnisse und die Multiplikatoren angezeigt, die verwendet wurden, um sie zu erhalten. Sobald du ein Ergebnis auswählst (die Art und Weise hängt von der Bühne ab), wird ein Laser auf den anvisierten Meteor abgefeuert.",
+    "trl_firstStage_02": "Wenn du das richtige Ergebnis ausgewählt hast, wird der anvisierte Meteor zerstört, der Bildschirm blinkt grün, und unten im Bühnenfenster erscheint der Text \"Richtig!\". Wenn du ein falsches Ergebnis ausgewählt hast, bewegt sich der anvisierte Meteor näher an die Erdoberfläche, du bist kurz benommen, der Bildschirm blinkt blau, und unten im Bühnenfenster erscheint der Text \"Falsch!\". Wichtig: Sobald ein Meteor erscheint, bewegt er sich nur, wenn er von einem Laser getroffen wird, der ihn nicht zerstört.",
+    "trl_firstStage_03": "Links befinden sich die Punkteleiste, die Gesundheitsleiste der Oberfläche und der Rechner. Rechts befinden sich die Einstellungen-Schaltfläche, die Welt-Schaltfläche und die Umrechnungstabelle der Einheiten. Die \"Umrechnungstabelle der Einheiten\" zeigt alle Einheitenumrechnungen für die aktuelle Einheitengruppe. Wenn du das richtige Ergebnis nicht findest, versuche mit dem Rechner die Gleichung zu lösen. Damit ist alles erklärt: Zeit, die Bühne zu starten!",
+
+    "trl_hiddenMultiples_00": "Die Multiplikatoren sind verborgen worden! Wenn du hintereinander genug Umrechnungen richtig machst, verschwinden die Umrechnungs-Multiplikatoren. Nach kurzer Zeit werden sie wieder sichtbar, aber wenn du darauf wartest, dauert die Stufe länger. Wenn du eine Umrechnung falsch machst, werden die Multiplikatoren sofort wieder angezeigt wie zuvor, außer du erzielst erneut genug richtige Antworten in Folge.",
+
+    "trl_barrier_00": "Eine Barriere wurde getroffen! Wenn ein Meteorit eine Barriere trifft, wird der Meteorit zerstört. Die Barriere nimmt Schaden und der Bildschirm blinkt orange. Wenn eine Barriere zu viel Schaden nimmt, wird sie zerstört und hinterlässt eine Öffnung, durch die Meteore die Erdoberfläche treffen und sie beschädigen können. Sobald du genug Punkte hast, wird eine Barriere wiederhergestellt.",
+
+    "trl_surface_00": "Die Erdoberfläche hat Schaden genommen! Wenn die Oberfläche Schaden nimmt, blinkt der Bildschirm rot. Denk daran: Wenn die Oberfläche zu viel Schaden nimmt, ist die Stufe verloren.",
+
+    "trl_pzl_buttons": "Dies ist ein Einheiten-Schaltflächen-Puzzle! Sende ein Ergebnis ab, indem du auf die Schaltfläche klickst, an der es befestigt ist.",
+
+    "trl_pzl_swap": "Dies ist ein Tausch-Puzzle! Symbole im Puzzlebereich tauschen ihre Plätze, wenn sich die Zeitleiste im Puzzlebereich vollständig entleert. Wähle ein Ergebnis mithilfe eines der entsprechenden Symbole im Puzzlebereich aus.",
+
+    "trl_pzl_slide": "Dies ist ein Schiebepuzzle! Symbole gleiten über den Puzzlebereich, während ein Meteor anvisiert wird. Wähle ein Ergebnis mithilfe eines der entsprechenden Symbole im Puzzlebereich aus.",
+
+    "trl_pzl_path": "Dies ist ein Pfad-Puzzle! Symbole bewegen sich entlang des Pfads im Puzzlebereich, während ein Meteor anvisiert wird. Wähle ein Ergebnis mithilfe des entsprechenden Symbols im Puzzlebereich aus.",
+
+    "trl_firstWin_00": "Du hast die erste Bühne abgeschlossen und damit noch mehr Bühnen freigeschaltet! Je mehr Bühnen du schaffst, desto mehr wirst du freischalten. Die verfügbaren Bühnen kannst du in beliebiger Reihenfolge abschließen, aber du musst alle Bühnen schaffen, um das Spiel zu beenden.",
+
+    "trl_mixStage_00": "Dies ist eine Mischstufe. In Mischstufen beschäftigst du dich mit mehreren Einheitsgruppen gleichzeitig. Du kommst erst dann zu einer Mischstufe, nachdem du alle relevanten Einheitsgruppen kennengelernt hast.",
+
+    "trl_lengthImperial_00": "Diese Einheiten werden verwendet, um zu messen, wie lang etwas ist.",
+
+    "trl_weightImperial_00": "Diese Einheiten werden verwendet, um zu messen, wie schwer etwas ist.",
+
+    "trl_time_00": "Diese Einheiten werden verwendet, um Zeitspannen zu messen.",
+
+    "trl_lengthMetric_00": "Diese Einheiten werden verwendet, um zu messen, wie lang etwas ist.",
+
+    "trl_weightMetric_00": "Diese Einheiten werden verwendet, um zu messen, wie schwer etwas ist.",
+
+    "trl_capacity_00": "Diese Einheiten werden verwendet, um zu messen, wie viel Flüssigkeit ein Behälter fassen kann.",
+
+
+    "kwd_gameComplete": "Spiel abgeschlossen!",
+
+    "kwd_results": "Ergebnisse",
+
+    "kwd_gameTime": "Spielzeit",
+    "kwd_gameScore": "Spielstand",
+    "kwd_finish": "Fertig"
+  },
   "en": {
     "_stop_": "",
 
@@ -442,7 +663,6 @@
     "kwd_gameTime": "Game Time",
     "kwd_gameScore": "Game Score",
     "kwd_finish": "Finish"
-
   },
   "es": {
     "_stop_": "",
@@ -664,6 +884,2657 @@
     "kwd_gameTime": "Tiempo de juego",
     "kwd_gameScore": "Puntuación del juego",
     "kwd_finish": "Finalizar"
+  },
+  "es-ES": {
+    "_stop_": "",
 
+    "gameTitle": "Equipo de la Brigada de Meteoroides",
+    "gameTitleShort": "EIM",
+
+    "kwd_title": "Título",
+    "kwd_start": "Empezar",
+    "kwd_newGame": "Partida nueva",
+    "kwd_continue": "Continuar",
+    "kwd_instructions": "Instrucciones",
+    "kwd_settings": "Configuración",
+    "kwd_licenses": "Licencias",
+    "kwd_quit": "Salir",
+
+    "kwd_back": "Atrás",
+
+    "mnu_instructions_dsc": "En este juego, destruyes meteoritos respondiendo correctamente a preguntas de conversión de unidades. Para interactuar con los elementos del juego, usa el ratón o los controles táctiles. Eliges los niveles en la zona del mundo y seleccionas las respuestas de conversión de unidades en la zona del nivel.",
+
+    "kwd_volume": "Volumen",
+    "kwd_bgmVolume": "Volumen de la música de fondo (BGM)",
+    "kwd_sfxVolume": "Volumen de los efectos de sonido (SFX)",
+    "kwd_ttsVolume": "Volumen de texto a voz (TTS)",
+    "kwd_mute": "Silencio",
+    "kwd_textToSpeech": "Texto a voz",
+    "kwd_tutorial": "Tutorial",
+    "kwd_tutorials": "Tutoriales",
+
+    "mnu_licenses_dsc": "Los recursos de origen han sido modificados para usarse en este juego.",
+    "kwd_bgms": "Música de fondo",
+    "kwd_sfxs": "Efectos de sonido",
+    "kwd_fonts": "Fuentes",
+
+
+    "kwd_units": "Unidades",
+    "kwd_unitsInfo": "Información de las unidades",
+
+
+    "kwd_save": "Guardar",
+    "sve_msg_savingGame": "Guardando...",
+
+
+    "unt_lengthImperial_nme": "Longitud (imperial)",
+    "unt_lengthImperial_dsc": "Pulgadas (in), pies (ft), yardas (yd)",
+
+    "unt_weightImperial_nme": "Peso (imperial)",
+    "unt_weightImperial_dsc": "Libras (lb), onzas (oz)",
+
+    "unt_time_nme": "Tiempo",
+    "unt_time_dsc": "Segundos (secs), minutos (mins), horas (hrs)",
+
+    "unt_lengthMetric_nme": "Longitud (métrica)",
+    "unt_lengthMetric_dsc": "Milímetros (mm), centímetros (cm), decímetros (dm), metros (m), kilómetros (km)",
+
+    "unt_weightMetric_nme": "Peso (métrica)",
+    "unt_weightMetric_dsc": "Miligramos (mg), gramos (g), kilogramos (kg)",
+
+    "unt_capacity_nme": "Capacidad (métrica)",
+    "unt_capacity_dsc": "Litros (l), mililitros (mL)",
+
+
+    "unt_inches_nme": "Pulgadas",
+    "unt_inches_sbl": "in",
+    "unt_feet_nme": "Pies",
+    "unt_feet_sbl": "ft",
+    "unt_yards_nme": "Yardas",
+    "unt_yards_sbl": "yd",
+
+    "unt_millimeters_nme": "Milímetros",
+    "unt_millimeters_sbl": "mm",
+    "unt_centimeters_nme": "Centímetros",
+    "unt_centimeters_sbl": "cm",
+    "unt_decimeters_nme": "Decímetros",
+    "unt_decimeters_sbl": "dm",
+    "unt_meters_nme": "Metros",
+    "unt_meters_sbl": "m",
+    "unt_kilometers_nme": "Kilómetros",
+    "unt_kilometers_sbl": "km",
+
+    "unt_pounds_nme": "Libras",
+    "unt_pounds_sbl": "lb",
+    "unt_ounces_nme": "Onzas",
+    "unt_ounces_sbl": "oz",
+    "unt_milligrams_nme": "Miligramos",
+    "unt_milligrams_sbl": "mg",
+    "unt_grams_nme": "Gramos",
+    "unt_grams_sbl": "g",
+    "unt_kilograms_nme": "Kilogramos",
+    "unt_kilograms_sbl": "kg",
+
+    "unt_seconds_nme": "Segundos",
+    "unt_seconds_sbl": "secs",
+    "unt_minutes_nme": "Minutos",
+    "unt_minutes_sbl": "mins",
+    "unt_hours_nme": "Horas",
+    "unt_hours_sbl": "hrs",
+
+    "unt_milliliters_nme": "Mililitros",
+    "unt_milliliters_sbl": "mL",
+    "unt_liters_nme": "Litros",
+    "unt_liters_sbl": "l",
+
+
+    "kwd_input": "Entrada",
+    "kwd_output": "Salida",
+    "kwd_switch": "Cambiar",
+
+
+    "kwd_one": "Uno",
+    "kwd_two": "Dos",
+    "kwd_three": "Tres",
+    "kwd_four": "Cuatro",
+    "kwd_five": "Cinco",
+
+    "kwd_six": "Seis",
+    "kwd_seven": "Siete",
+    "kwd_eight": "Ocho",
+    "kwd_nine": "Nueve",
+    "kwd_zero": "Cero",
+
+    "kwd_decimalPoint": "Punto decimal",
+    "kwd_multiply": "Multiplicar",
+    "kwd_divide": "Dividir",
+    "kwd_equals": "Igual",
+
+    "kwd_backspace": "Retroceso",
+    "kwd_delete": "Eliminar",
+    "kwd_clear": "Borrar",
+    "kwd_clear_sbl": "C",
+
+    "kwd_error": "Error",
+
+
+    "kwd_world": "Mundo",
+    "kwd_stageSelect": "Selección de fase",
+    "kwd_stage": "Fase",
+
+    "kwd_all": "Todos",
+    "kwd_none": "Ninguno",
+
+    "stg_mix1_nme": "Mezcla 1",
+    "stg_mix1_dsc": "Longitud (imperial), peso (imperial), tiempo",
+
+    "stg_mix2_nme": "Mezcla 2",
+    "stg_mix2_dsc": "Longitud (métrico), peso (métrico), capacidad (métrico)",
+
+    "stg_mix3_nme": "Mezcla 3",
+    "stg_mix3_dsc": "Todo",
+
+
+    "kwd_time": "Tiempo",
+    "kwd_score": "Puntuación",
+    "kwd_points": "Puntos",
+    "kwd_combo": "Combo",
+    "kwd_highestCombo": "Combo más alto",
+    "kwd_restart": "Reiniciar",
+    "kwd_speed": "Velocidad",
+
+
+    "kwd_correct": "¡Correcto!",
+    "kwd_incorrect": "¡Incorrecto!",
+
+
+    "kwd_stageEnd": "Fin de la fase",
+    "kwd_stageClear": "Fase completada",
+    "kwd_stageWon": "Fase ganada",
+    "kwd_stageFailed": "Fase fallida",
+    "kwd_stageLost": "Fase perdida",
+
+
+    "chr_partnerA_nme": "Reteor",
+    "chr_partnerB_nme": "Astrite",
+
+
+    "trl_intro_00": "¡Bienvenido al Equipo de Impacto de Meteoritos (EIM)! Localizamos meteoritos y los destruimos antes de que golpeen la superficie de la Tierra, y lo hacemos convirtiendo unidades de medida mayores en unidades de medida menores. Esta es la zona del mundo, donde seleccionas niveles, ves información sobre las unidades, cambias la configuración del juego y guardas tu partida. Soy Reteor...",
+    "trl_intro_01": "¡Y yo soy Astrite! Cuando selecciones un nivel, se mostrarán las unidades con las que trabajarás. Una vez que se proporciona esta información, se añade al «menú de información sobre unidades», que puede verse usando el «botón de información sobre unidades». Con todo eso explicado, ¡selecciona el nivel disponible para empezar a destruir meteoritos!",
+
+    "trl_firstStage_00": "Bienvenido a la zona del nivel, donde derribarás meteoritos. Cuando un meteorito es seleccionado como objetivo, se te presenta una conversión que resolver. Si la conversión es correcta, obtienes puntos, y cuando consigas suficientes puntos, el nivel se completará. Pero si la superficie de la Tierra recibe demasiado daño, perderás el nivel.",
+    "trl_firstStage_01": "Los meteoritos se seleccionan como objetivo automáticamente, pero también puedes seleccionar manualmente meteoritos inmóviles haciendo clic en ellos o tocándolos. Cuando un meteorito es seleccionado como objetivo, se te muestran distintas respuestas de conversión y los multiplicadores que se usaron para obtenerlas. Una vez que selecciones una respuesta (la forma de hacerlo varía según el nivel), se dispara un láser al meteorito seleccionado.",
+    "trl_firstStage_02": "Si has seleccionado la respuesta correcta, el meteorito seleccionado se destruye, la pantalla parpadea en verde y aparece el texto «¡Correcto!» en la parte inferior de la ventana del nivel. Si has seleccionado una respuesta incorrecta, el meteorito seleccionado se acerca más a la superficie de la Tierra, quedas aturdido brevemente, la pantalla parpadea en azul y aparece el texto «¡Incorrecto!» en la parte inferior de la ventana del nivel. Cabe destacar que, una vez que aparece un meteorito, solo se mueve cuando recibe el impacto de un disparo láser que no logra destruirlo.",
+    "trl_firstStage_03": "A la izquierda están la barra de puntos, la barra de salud de la superficie y la calculadora. A la derecha están el botón de configuración, el botón del mundo y la tabla de conversión de unidades. La «tabla de conversión de unidades» muestra todas las conversiones de unidades del grupo de unidades actual. Si te cuesta encontrar la respuesta correcta, intenta usar la calculadora para resolver la ecuación. Dicho esto, ¡es hora de empezar el nivel!",
+
+    "trl_hiddenMultiples_00": "¡Los multiplicadores se han ocultado! Si haces suficientes conversiones correctas seguidas, los multiplicadores de conversión desaparecerán. Volverán a hacerse visibles al cabo de poco tiempo, pero esperar a que eso ocurra hará que el nivel dure más. Si fallas una conversión, los multiplicadores volverán a aparecer al instante como antes, a menos que consigas otra vez suficientes aciertos consecutivos.",
+
+    "trl_barrier_00": "¡Una barrera ha sido alcanzada! Cuando un meteorito golpea una barrera, el meteorito se destruye. La barrera recibe daño y la pantalla parpadea en naranja. Si una barrera recibe demasiado daño, se destruirá y dejará una abertura para que los meteoritos golpeen la superficie de la Tierra y la dañen. Cuando consigas suficientes puntos, una barrera se restaurará.",
+
+    "trl_surface_00": "¡La superficie de la Tierra ha recibido daño! Cuando la superficie recibe daño, la pantalla parpadea en rojo. Recuerda: si la superficie recibe demasiado daño, perderás el nivel.",
+
+    "trl_pzl_buttons": "¡Este es un rompecabezas de botones de unidades! Envía una respuesta seleccionando el botón al que está asociada.",
+
+    "trl_pzl_swap": "¡Este es un rompecabezas de intercambio! Los símbolos de la zona del rompecabezas cambian de lugar cuando la barra de tiempo de la zona del rompecabezas se agota por completo. Selecciona una respuesta usando uno de sus símbolos correspondientes en la zona del rompecabezas.",
+
+    "trl_pzl_slide": "¡Este es un rompecabezas deslizante! Los símbolos se deslizan por la zona del rompecabezas mientras se selecciona un meteorito como objetivo. Selecciona una respuesta usando uno de sus símbolos correspondientes en la zona del rompecabezas.",
+
+    "trl_pzl_path": "¡Este es un rompecabezas de camino! Los símbolos se mueven a lo largo del camino en la zona del rompecabezas mientras un meteorito es seleccionado como objetivo. Selecciona una respuesta usando su símbolo correspondiente en la zona del rompecabezas.",
+
+    "trl_firstWin_00": "Has completado el primer nivel, ¡y eso ha desbloqueado todavía más niveles! Cuantos más niveles superes, más niveles desbloquearás. De los niveles disponibles, puedes superarlos en cualquier orden, pero debes superar todos los niveles para completar el juego.",
+
+    "trl_mixStage_00": "Este es un nivel combinado. Los niveles combinados te hacen trabajar con varios grupos de unidades a la vez. Solo harás un nivel combinado después de haber visto todos los grupos de unidades relevantes.",
+
+    "trl_lengthImperial_00": "Estas unidades se usan para medir cuánto mide algo.",
+
+    "trl_weightImperial_00": "Estas unidades se usan para medir cuánto pesa algo.",
+
+    "trl_time_00": "Estas unidades se usan para medir duraciones de tiempo.",
+
+    "trl_lengthMetric_00": "Estas unidades se usan para medir cuánto mide algo.",
+
+    "trl_weightMetric_00": "Estas unidades se usan para medir cuánto pesa algo.",
+
+    "trl_capacity_00": "Estas unidades se usan para medir cuánto líquido puede contener un recipiente.",
+
+
+    "kwd_gameComplete": "¡Juego completado!",
+
+    "kwd_results": "Resultados",
+
+    "kwd_gameTime": "Tiempo de juego",
+    "kwd_gameScore": "Puntuación del juego",
+    "kwd_finish": "Terminar"
+  },
+  "fr-CA": {
+    "_stop_": "",
+
+    "gameTitle": "Équipe de frappe de météore",
+    "gameTitleShort": "EFM",
+
+    "kwd_title": "Titre",
+    "kwd_start": "Démarrer",
+    "kwd_newGame": "Nouvelle partie",
+    "kwd_continue": "Continuer",
+    "kwd_instructions": "Instructions",
+    "kwd_settings": "Paramètres",
+    "kwd_licenses": "Licences",
+    "kwd_quit": "Quitter",
+
+    "kwd_back": "Retour",
+
+    "mnu_instructions_dsc": "Dans ce jeu, tu détruis des météorites en répondant correctement à des questions de conversion d’unités. Pour interagir avec les éléments du jeu, utilise la souris ou les commandes tactiles. Tu choisis les niveaux dans la zone du monde et tu sélectionnes les réponses de conversion d’unités dans la zone du niveau.",
+
+    "kwd_volume": "Volume",
+    "kwd_bgmVolume": "Volume de la musique de fond (BGM)",
+    "kwd_sfxVolume": "Volume des effets sonores (SFX)",
+    "kwd_ttsVolume": "Volume de la synthèse vocale (TTS)",
+    "kwd_mute": "Muet",
+    "kwd_textToSpeech": "Synthèse vocale",
+    "kwd_tutorial": "Tutoriel",
+    "kwd_tutorials": "Tutoriels",
+
+    "mnu_licenses_dsc": "Les ressources fournies ont été modifiées pour être utilisées dans ce jeu.",
+    "kwd_bgms": "Musiques de fond",
+    "kwd_sfxs": "Effets sonores",
+    "kwd_fonts": "Polices",
+
+
+    "kwd_units": "Unités",
+    "kwd_unitsInfo": "Infos sur les unités",
+
+
+    "kwd_save": "Enregistrer",
+    "sve_msg_savingGame": "Enregistrement...",
+
+
+    "unt_lengthImperial_nme": "Longueur (impérial)",
+    "unt_lengthImperial_dsc": "Pouces (in), pieds (ft), verges (yd)",
+
+    "unt_weightImperial_nme": "Poids (impérial)",
+    "unt_weightImperial_dsc": "Livres (lb), onces (oz)",
+
+    "unt_time_nme": "Temps",
+    "unt_time_dsc": "Secondes (secs), minutes (mins), heures (hrs)",
+
+    "unt_lengthMetric_nme": "Longueur (métrique)",
+    "unt_lengthMetric_dsc": "Millimètres (mm), centimètres (cm), décimètres (dm), mètres (m), kilomètres (km)",
+
+    "unt_weightMetric_nme": "Poids (métrique)",
+    "unt_weightMetric_dsc": "Milligrammes (mg), grammes (g), kilogrammes (kg)",
+
+    "unt_capacity_nme": "Capacité (métrique)",
+    "unt_capacity_dsc": "Litres (l), millilitres (mL)",
+
+
+    "unt_inches_nme": "Pouces",
+    "unt_inches_sbl": "po",
+    "unt_feet_nme": "Pieds",
+    "unt_feet_sbl": "ft",
+    "unt_yards_nme": "Verges",
+    "unt_yards_sbl": "yd",
+
+    "unt_millimeters_nme": "Millimètres",
+    "unt_millimeters_sbl": "mm",
+    "unt_centimeters_nme": "Centimètres",
+    "unt_centimeters_sbl": "cm",
+    "unt_decimeters_nme": "Décimètres",
+    "unt_decimeters_sbl": "dm",
+    "unt_meters_nme": "Mètres",
+    "unt_meters_sbl": "m",
+    "unt_kilometers_nme": "Kilomètres",
+    "unt_kilometers_sbl": "km",
+
+    "unt_pounds_nme": "Livres",
+    "unt_pounds_sbl": "lb",
+    "unt_ounces_nme": "Onces",
+    "unt_ounces_sbl": "oz",
+    "unt_milligrams_nme": "Milligrammes",
+    "unt_milligrams_sbl": "mg",
+    "unt_grams_nme": "Grammes",
+    "unt_grams_sbl": "g",
+    "unt_kilograms_nme": "Kilogrammes",
+    "unt_kilograms_sbl": "kg",
+
+    "unt_seconds_nme": "Secondes",
+    "unt_seconds_sbl": "secs",
+    "unt_minutes_nme": "Minutes",
+    "unt_minutes_sbl": "mins",
+    "unt_hours_nme": "Heures",
+    "unt_hours_sbl": "h",
+
+    "unt_milliliters_nme": "Millilitres",
+    "unt_milliliters_sbl": "mL",
+    "unt_liters_nme": "Litres",
+    "unt_liters_sbl": "l",
+
+
+    "kwd_input": "Entrée",
+    "kwd_output": "Sortie",
+    "kwd_switch": "Changer",
+
+
+    "kwd_one": "Un",
+    "kwd_two": "Deux",
+    "kwd_three": "Trois",
+    "kwd_four": "Quatre",
+    "kwd_five": "Cinq",
+
+    "kwd_six": "Six",
+    "kwd_seven": "Sept",
+    "kwd_eight": "Huit",
+    "kwd_nine": "Neuf",
+    "kwd_zero": "Zéro",
+
+    "kwd_decimalPoint": "Point décimal",
+    "kwd_multiply": "Multiplier",
+    "kwd_divide": "Diviser",
+    "kwd_equals": "Égal",
+
+    "kwd_backspace": "Retour arrière",
+    "kwd_delete": "Supprimer",
+    "kwd_clear": "Effacer",
+    "kwd_clear_sbl": "C",
+
+    "kwd_error": "Erreur",
+
+
+    "kwd_world": "Monde",
+    "kwd_stageSelect": "Sélection du niveau",
+    "kwd_stage": "Niveau",
+
+    "kwd_all": "Tout",
+    "kwd_none": "Aucun",
+
+    "stg_mix1_nme": "Mélange 1",
+    "stg_mix1_dsc": "Longueur (impérial), poids (impérial), temps",
+
+    "stg_mix2_nme": "Mélange 2",
+    "stg_mix2_dsc": "Longueur (métrique), poids (métrique), capacité (métrique)",
+
+    "stg_mix3_nme": "Mélange 3",
+    "stg_mix3_dsc": "Tout",
+
+
+    "kwd_time": "Temps",
+    "kwd_score": "Score",
+    "kwd_points": "Points",
+    "kwd_combo": "Combo",
+    "kwd_highestCombo": "Combo le plus élevé",
+    "kwd_restart": "Redémarrer",
+    "kwd_speed": "Vitesse",
+
+
+    "kwd_correct": "Correct !",
+    "kwd_incorrect": "Incorrect !",
+
+
+    "kwd_stageEnd": "Fin du niveau",
+    "kwd_stageClear": "Niveau terminé",
+    "kwd_stageWon": "Niveau gagné",
+    "kwd_stageFailed": "Niveau échoué",
+    "kwd_stageLost": "Niveau perdu",
+
+
+    "chr_partnerA_nme": "Reteor",
+    "chr_partnerB_nme": "Astrite",
+
+
+    "trl_intro_00": "Bienvenue dans l’Équipe de frappe de météores (EFM) ! Nous traquons les météores et les détruisons avant qu’ils n’atteignent la surface de la Terre, et pour cela, nous convertissons de plus grandes unités de mesure en plus petites unités de mesure. Voici la zone du monde, où tu sélectionnes les niveaux, consultes les informations sur les unités, modifies les paramètres du jeu et sauvegardes ta partie. Je suis Reteor...",
+    "trl_intro_01": "Et moi, je suis Astrite ! Quand tu sélectionnes un niveau, les unités avec lesquelles tu travailleras s’affichent. Une fois ces informations données, elles sont ajoutées au « menu d’infos sur les unités », que tu peux consulter avec le « bouton d’infos sur les unités ». Maintenant que tout est expliqué, sélectionne le niveau disponible pour commencer à détruire des météores !",
+
+    "trl_firstStage_00": "Bienvenue dans la zone du niveau, où tu feras tomber des météorites. Lorsqu’une météorite est ciblée, une conversion à résoudre s’affiche. Si la conversion est réussie, tu gagnes des points et, quand tu en auras assez, le niveau sera terminé. Mais si la surface de la Terre subit trop de dégâts, tu perdras le niveau.",
+    "trl_firstStage_01": "Les météorites sont ciblées automatiquement, mais tu peux aussi cibler manuellement les météorites immobiles en cliquant dessus ou en les touchant. Lorsqu’une météorite est ciblée, différentes réponses de conversion et les multiplicateurs utilisés pour les obtenir s’affichent. Une fois que tu sélectionnes une réponse (la façon de le faire varie selon le niveau), un laser est tiré sur la météorite ciblée.",
+    "trl_firstStage_02": "Si tu as choisi la bonne réponse, la météorite ciblée est détruite, l’écran clignote en vert et le texte « Correct ! » apparaît en bas de la fenêtre du niveau. Si tu as choisi une mauvaise réponse, la météorite ciblée se rapproche de la surface de la Terre, tu es brièvement étourdi, l’écran clignote en bleu et le texte « Incorrect ! » apparaît en bas de la fenêtre du niveau. À noter qu’une fois qu’une météorite apparaît, elle ne bouge que lorsqu’elle est touchée par un tir laser qui ne parvient pas à la détruire.",
+    "trl_firstStage_03": "À gauche, il y a la barre de points, la barre de vie de la surface et la calculatrice. À droite, il y a le bouton des paramètres, le bouton du monde et le tableau de conversion des unités. Le « tableau de conversion des unités » montre toutes les conversions d’unités du groupe d’unités actuel. Si tu as du mal à trouver la bonne réponse, essaie d’utiliser la calculatrice pour résoudre l’équation. Cela dit, il est temps de commencer le niveau !",
+
+    "trl_hiddenMultiples_00": "Les multiplicateurs ont été cachés ! Si tu fais assez de conversions correctes d’affilée, les multiplicateurs de conversion disparaîtront. Ils redeviendront visibles après un court moment, mais attendre cela rallongera le niveau. Si tu te trompes dans une conversion, les multiplicateurs recommenceront à s’afficher tout de suite comme avant, à moins que tu n’obtiennes de nouveau assez de bonnes réponses consécutives.",
+
+    "trl_barrier_00": "Une barrière a été touchée ! Quand une météorite frappe une barrière, la météorite est détruite. La barrière subit des dégâts et l’écran clignote en orange. Si une barrière subit trop de dégâts, elle sera détruite, laissant une ouverture pour que les météorites frappent la surface de la Terre et l’endommagent. Une fois que tu auras assez de points, une barrière sera rétablie.",
+
+    "trl_surface_00": "La surface de la Terre a subi des dégâts ! Quand la surface subit des dégâts, l’écran clignote en rouge. Souviens-toi : si la surface subit trop de dégâts, tu perdras le niveau.",
+
+    "trl_pzl_buttons": "Voici un casse-tête de boutons d’unités ! Valide une réponse en sélectionnant le bouton auquel elle est associée.",
+
+    "trl_pzl_swap": "Voici un casse-tête d’échange ! Les symboles de la zone du casse-tête échangent leur place lorsque la barre de temps de la zone du casse-tête se vide complètement. Sélectionne une réponse en utilisant l’un de ses symboles correspondants dans la zone du casse-tête.",
+
+    "trl_pzl_slide": "Voici un casse-tête coulissant ! Les symboles glissent dans la zone du casse-tête pendant qu’une météorite est ciblée. Sélectionne une réponse en utilisant l’un de ses symboles correspondants dans la zone du casse-tête.",
+
+    "trl_pzl_path": "Voici un casse-tête de parcours ! Les symboles se déplacent le long du chemin dans la zone du casse-tête pendant qu’une météorite est ciblée. Sélectionne une réponse en utilisant le symbole correspondant dans la zone du casse-tête.",
+
+    "trl_firstWin_00": "Tu as terminé le premier niveau, ce qui a débloqué encore plus de niveaux ! Plus tu réussis de niveaux, plus tu en débloques. Parmi les niveaux disponibles, tu peux les terminer dans n’importe quel ordre, mais tu dois tous les réussir pour terminer le jeu.",
+
+    "trl_mixStage_00": "C’est un niveau mixte. Dans les niveaux mixtes, tu dois gérer plusieurs groupes d’unités à la fois. Tu ne feras un niveau mixte qu’après avoir découvert tous les groupes d’unités pertinents.",
+
+    "trl_lengthImperial_00": "Ces unités servent à mesurer la longueur de quelque chose.",
+
+    "trl_weightImperial_00": "Ces unités servent à mesurer le poids de quelque chose.",
+
+    "trl_time_00": "Ces unités servent à mesurer des durées.",
+
+    "trl_lengthMetric_00": "Ces unités servent à mesurer la longueur de quelque chose.",
+
+    "trl_weightMetric_00": "Ces unités servent à mesurer le poids de quelque chose.",
+
+    "trl_capacity_00": "Ces unités servent à mesurer la quantité de liquide qu’un récipient peut contenir.",
+
+
+    "kwd_gameComplete": "Jeu terminé !",
+
+    "kwd_results": "Résultats",
+
+    "kwd_gameTime": "Temps de jeu",
+    "kwd_gameScore": "Score du jeu",
+    "kwd_finish": "Terminer"
+  },
+  "fr-FR": {
+    "_stop_": "",
+
+    "gameTitle": "Équipe d'attaque météore",
+    "gameTitleShort": "MST",
+
+    "kwd_title": "Titre",
+    "kwd_start": "Commencer",
+    "kwd_newGame": "Nouvelle partie",
+    "kwd_continue": "Continuer",
+    "kwd_instructions": "Instructions",
+    "kwd_settings": "Paramètres",
+    "kwd_licenses": "Licences",
+    "kwd_quit": "Quitter",
+
+    "kwd_back": "Retour",
+
+    "mnu_instructions_dsc": "Dans ce jeu, tu détruis des météores en répondant correctement à des questions de conversion d’unités. Pour interagir avec les éléments du jeu, utilise la souris ou les commandes tactiles. Tu choisis les niveaux dans la zone du monde et tu sélectionnes les résultats de conversion dans la zone du niveau.",
+
+    "kwd_volume": "Volume",
+    "kwd_bgmVolume": "Volume de la musique de fond (BGM)",
+    "kwd_sfxVolume": "Volume des effets sonores (SFX)",
+    "kwd_ttsVolume": "Volume de la synthèse vocale (TTS)",
+    "kwd_mute": "Muet",
+    "kwd_textToSpeech": "Synthèse vocale",
+    "kwd_tutorial": "Tutoriel",
+    "kwd_tutorials": "Tutoriels",
+
+    "mnu_licenses_dsc": "Les ressources utilisées ont été modifiées pour être utilisées dans ce jeu.",
+    "kwd_bgms": "BGM",
+    "kwd_sfxs": "SFX",
+    "kwd_fonts": "Polices de caractères",
+
+
+    "kwd_units": "Unités",
+    "kwd_unitsInfo": "Infos sur les unités",
+
+
+    "kwd_save": "Enregistrer",
+    "sve_msg_savingGame": "Enregistrement...",
+
+
+    "unt_lengthImperial_nme": "Longueur (impérial)",
+    "unt_lengthImperial_dsc": "Pouces (in), pieds (ft), yards (yd)",
+
+    "unt_weightImperial_nme": "Poids (impérial)",
+    "unt_weightImperial_dsc": "Livres (lb), onces (oz)",
+
+    "unt_time_nme": "Temps",
+    "unt_time_dsc": "Secondes (secs), minutes (mins), heures (hrs)",
+
+    "unt_lengthMetric_nme": "Longueur (métrique)",
+    "unt_lengthMetric_dsc": "Millimètres (mm), centimètres (cm), décimètres (dm), mètres (m), kilomètres (km)",
+
+    "unt_weightMetric_nme": "Poids (métrique)",
+    "unt_weightMetric_dsc": "Milligrammes (mg), grammes (g) kilogrammes (kg)",
+
+    "unt_capacity_nme": "Capacité (métrique)",
+    "unt_capacity_dsc": "Litres (l), millilitres (mL)",
+
+
+    "unt_inches_nme": "Pouces",
+    "unt_inches_sbl": "po",
+    "unt_feet_nme": "Pieds",
+    "unt_feet_sbl": "pi",
+    "unt_yards_nme": "Verges",
+    "unt_yards_sbl": "yd",
+
+    "unt_millimeters_nme": "Millimètres",
+    "unt_millimeters_sbl": "mm",
+    "unt_centimeters_nme": "Centimètres",
+    "unt_centimeters_sbl": "cm",
+    "unt_decimeters_nme": "Décimètres",
+    "unt_decimeters_sbl": "dm",
+    "unt_meters_nme": "Mètres",
+    "unt_meters_sbl": "m",
+    "unt_kilometers_nme": "Kilomètres",
+    "unt_kilometers_sbl": "km",
+
+    "unt_pounds_nme": "Livres",
+    "unt_pounds_sbl": "lb",
+    "unt_ounces_nme": "Onces",
+    "unt_ounces_sbl": "oz",
+    "unt_milligrams_nme": "Milligrammes",
+    "unt_milligrams_sbl": "mg",
+    "unt_grams_nme": "Grammes",
+    "unt_grams_sbl": "g",
+    "unt_kilograms_nme": "Kilogrammes",
+    "unt_kilograms_sbl": "kg",
+
+    "unt_seconds_nme": "Secondes",
+    "unt_seconds_sbl": "s",
+    "unt_minutes_nme": "Minutes",
+    "unt_minutes_sbl": "min",
+    "unt_hours_nme": "Heures",
+    "unt_hours_sbl": "h",
+
+    "unt_milliliters_nme": "Millilitres",
+    "unt_milliliters_sbl": "mL",
+    "unt_liters_nme": "Litres",
+    "unt_liters_sbl": "l",
+
+
+    "kwd_input": "Entrée",
+    "kwd_output": "Sortie",
+    "kwd_switch": "Changer",
+
+
+    "kwd_one": "Un",
+    "kwd_two": "Deux",
+    "kwd_three": "Trois",
+    "kwd_four": "Quatre",
+    "kwd_five": "Cinq",
+
+    "kwd_six": "Six",
+    "kwd_seven": "Sept",
+    "kwd_eight": "Huit",
+    "kwd_nine": "Neuf",
+    "kwd_zero": "Zéro",
+
+    "kwd_decimalPoint": "Point décimal",
+    "kwd_multiply": "Multiplier",
+    "kwd_divide": "Diviser",
+    "kwd_equals": "Égal à",
+
+    "kwd_backspace": "Retour arrière",
+    "kwd_delete": "Supprimer",
+    "kwd_clear": "Effacer",
+    "kwd_clear_sbl": "C",
+
+    "kwd_error": "Erreur",
+
+
+    "kwd_world": "Monde",
+    "kwd_stageSelect": "Sélection de l’étape",
+    "kwd_stage": "Étape",
+
+    "kwd_all": "Tout",
+    "kwd_none": "Aucun",
+
+    "stg_mix1_nme": "Mix 1",
+    "stg_mix1_dsc": "Longueur (impérial), poids (impérial), temps",
+
+    "stg_mix2_nme": "Mix 2",
+    "stg_mix2_dsc": "Longueur (métrique), poids (métrique), capacité (métrique)",
+
+    "stg_mix3_nme": "Mix 3",
+    "stg_mix3_dsc": "Tout",
+
+
+    "kwd_time": "Temps",
+    "kwd_score": "Score",
+    "kwd_points": "Points",
+    "kwd_combo": "Combo",
+    "kwd_highestCombo": "Combo le plus haut",
+    "kwd_restart": "Recommencer",
+    "kwd_speed": "Vitesse",
+
+
+    "kwd_correct": "Correct !",
+    "kwd_incorrect": "Incorrect !",
+
+
+    "kwd_stageEnd": "Fin de l’étape",
+    "kwd_stageClear": "Étape terminée",
+    "kwd_stageWon": "Étape gagnée",
+    "kwd_stageFailed": "Étape échouée",
+    "kwd_stageLost": "Étape perdue",
+
+
+    "chr_partnerA_nme": "Reteor",
+    "chr_partnerB_nme": "Astrite",
+
+
+    "trl_intro_00": "Bienvenue dans l’Équipe de frappe de météores (MST) ! Nous traquons les météores et les détruisons avant qu’ils n’atteignent la surface de la Terre, et pour cela, nous convertissons de plus grandes unités de mesure en plus petites unités de mesure. Ceci est la zone du monde, où tu choisis les niveaux, consultes les informations sur les unités, modifies les paramètres du jeu et enregistres ta partie. Je suis Reteor...",
+    "trl_intro_01": "Et moi, je suis Astrite ! Quand tu sélectionnes un niveau, les unités avec lesquelles tu vas travailler s’affichent. Une fois cette information donnée, elle est ajoutée au « menu d’infos sur les unités », que tu peux consulter à l’aide du « bouton d’infos sur les unités ». Maintenant que tout est expliqué, sélectionne le niveau disponible pour commencer à détruire des météores !",
+
+    "trl_firstStage_00": "Bienvenue dans la zone du niveau, où tu vas abattre des météores. Quand un météore est ciblé, une conversion te sera proposée. Si la conversion est réussie, tu gagnes des points, et une fois que tu en as assez, le niveau est terminé. Mais si la surface de la Terre subit trop de dégâts, le niveau est perdu.",
+    "trl_firstStage_01": "Les météores sont ciblés automatiquement, mais tu peux aussi cibler manuellement les météores immobiles en cliquant dessus ou en les touchant. Quand un météore est ciblé, différentes réponses de conversion et les multiplicateurs utilisés pour les obtenir te sont présentés. Une fois que tu sélectionnes une réponse (la méthode varie selon le niveau), un tir laser est envoyé vers le météore ciblé.",
+    "trl_firstStage_02": "Si tu as sélectionné la bonne réponse, le météore ciblé est détruit, l’écran clignote en vert et le texte « Correct ! » apparaît en bas de la fenêtre du niveau. Si tu as sélectionné une mauvaise réponse, le météore ciblé se rapproche de la surface de la Terre, tu es brièvement étourdi, l’écran clignote en bleu et le texte « Incorrect ! » apparaît en bas de la fenêtre du niveau. À noter : une fois qu’un météore apparaît, il ne bouge que s’il est touché par un tir laser qui ne le détruit pas.",
+    "trl_firstStage_03": "À gauche se trouvent la barre de points, la barre de vie de la surface et la calculatrice. À droite se trouvent le bouton des paramètres, le bouton du monde et le tableau de conversion des unités. Le « tableau de conversion des unités » montre toutes les conversions pour le groupe d’unités actuel. Si tu as du mal à trouver la bonne réponse, essaie d’utiliser la calculatrice pour résoudre l’équation. Maintenant que tout est dit, il est temps de commencer le niveau !",
+
+    "trl_hiddenMultiples_00": "Les multiplicateurs sont devenus cachés ! Si tu réussis assez de conversions d’affilée, les multiplicateurs de conversion disparaîtront. Ils redeviendront visibles après un court moment, mais attendre fera durer le niveau plus longtemps. Si tu te trompes dans une conversion, les multiplicateurs recommenceront à apparaître immédiatement comme avant, sauf si tu enchaînes à nouveau assez de bonnes réponses.",
+
+    "trl_barrier_00": "Une barrière a été touchée ! Quand un météore touche une barrière, le météore est détruit. La barrière subit des dégâts et l’écran clignote en orange. Si une barrière subit trop de dégâts, elle sera détruite, laissant une ouverture pour que les météores frappent la surface de la Terre et l’endommagent. Une fois que tu as assez de points, une barrière est restaurée.",
+
+    "trl_surface_00": "La surface de la Terre a subi des dégâts ! Quand la surface subit des dégâts, l’écran clignote en rouge. Souviens-toi : si la surface subit trop de dégâts, le niveau est perdu.",
+
+    "trl_pzl_buttons": "Voici une énigme avec des boutons d’unités ! Valide une réponse en sélectionnant le bouton auquel elle est associée.",
+
+    "trl_pzl_swap": "Voici une énigme d’échange ! Les symboles dans la zone de l’énigme échangent leur place quand la barre de temps de la zone de l’énigme est complètement vide. Sélectionne une réponse à l’aide de l’un de ses symboles correspondants dans la zone de l’énigme.",
+
+    "trl_pzl_slide": "Voici une énigme coulissante ! Des symboles glissent dans la zone de l’énigme pendant qu’un météore est ciblé. Sélectionne une réponse à l’aide de l’un de ses symboles correspondants dans la zone de l’énigme.",
+
+    "trl_pzl_path": "Voici une énigme en chemin ! Des symboles se déplacent le long du chemin dans la zone de l’énigme pendant qu’un météore est ciblé. Sélectionne une réponse à l’aide du symbole correspondant dans la zone de l’énigme.",
+
+    "trl_firstWin_00": "Tu as terminé le premier niveau, ce qui a débloqué encore plus de niveaux ! Plus tu termines de niveaux, plus tu en débloques. Parmi les niveaux disponibles, tu peux les terminer dans n’importe quel ordre, mais tu dois tous les réussir pour terminer le jeu.",
+
+    "trl_mixStage_00": "Ceci est un niveau mixte. Les niveaux mixtes te demandent de gérer plusieurs groupes d’unités à la fois. Tu n’auras accès à un niveau mixte qu’après avoir découvert tous les groupes d’unités concernés.",
+
+    "trl_lengthImperial_00": "Ces unités servent à mesurer la longueur de quelque chose.",
+
+    "trl_weightImperial_00": "Ces unités servent à mesurer le poids de quelque chose.",
+
+    "trl_time_00": "Ces unités servent à mesurer des durées.",
+
+    "trl_lengthMetric_00": "Ces unités servent à mesurer la longueur de quelque chose.",
+
+    "trl_weightMetric_00": "Ces unités servent à mesurer le poids de quelque chose.",
+
+    "trl_capacity_00": "Ces unités servent à mesurer la quantité de liquide qu’un récipient peut contenir.",
+
+
+    "kwd_gameComplete": "Jeu terminé !",
+
+    "kwd_results": "Résultats",
+
+    "kwd_gameTime": "Temps de jeu",
+    "kwd_gameScore": "Score du jeu",
+    "kwd_finish": "Terminer"
+  },
+  "ht": {
+    "_stop_": "",
+
+    "gameTitle": "Ekip Atak Météor",
+    "gameTitleShort": "MST",
+
+    "kwd_title": "Tit",
+    "kwd_start": "Kòmanse",
+    "kwd_newGame": "Nouvo jwèt",
+    "kwd_continue": "Kontinye",
+    "kwd_instructions": "Enstriksyon",
+    "kwd_settings": "Anviwònman",
+    "kwd_licenses": "Lisans",
+    "kwd_quit": "Sòti",
+
+    "kwd_back": "Retounen",
+
+    "mnu_instructions_dsc": "Nan jwèt sa a, ou detwi météor yo lè w reponn kesyon konvèsyon inite yo kòrèkteman. Pou entèraji ak eleman jwèt yo, sèvi ak sourit la oswa kontwòl manyen yo. Ou chwazi nivo yo nan zòn mond lan epi chwazi rezilta konvèsyon inite yo nan zòn nivo a.",
+
+    "kwd_volume": "Volim",
+    "kwd_bgmVolume": "Volim mizik an fon (BGM)",
+    "kwd_sfxVolume": "Volim efè son (SFX)",
+    "kwd_ttsVolume": "Volim tèks-a-vwa (TTS)",
+    "kwd_mute": "Mete an silans",
+    "kwd_textToSpeech": "Tèks-a-vwa",
+    "kwd_tutorial": "Leson patikilye",
+    "kwd_tutorials": "Leson patikilye yo",
+
+    "mnu_licenses_dsc": "Byen yo te chanje pou yo ka itilize nan jwèt sa a.",
+    "kwd_bgms": "Mizik an fon",
+    "kwd_sfxs": "Efè son",
+    "kwd_fonts": "Polis",
+
+
+    "kwd_units": "Inite",
+    "kwd_unitsInfo": "Enfòmasyon sou inite yo",
+
+
+    "kwd_save": "Sove",
+    "sve_msg_savingGame": "Ap sove...",
+
+
+    "unt_lengthImperial_nme": "Length (Imperial)",
+    "unt_lengthImperial_dsc": "Inches (in), Feet (ft), Yards (yd)",
+
+    "unt_weightImperial_nme": "Weight (Imperial)",
+    "unt_weightImperial_dsc": "Pounds (lb), Ounces (oz)",
+
+    "unt_time_nme": "Time",
+    "unt_time_dsc": "Seconds (secs), Minutes (mins), Hours (hrs)",
+
+    "unt_lengthMetric_nme": "Length (Metric)",
+    "unt_lengthMetric_dsc": "Millimeters (mm), Centimeters (cm), Decimeters (dm), Meters (m), Kilometers (km)",
+
+    "unt_weightMetric_nme": "Weight (Metric)",
+    "unt_weightMetric_dsc": "Milligrams (mg), Grams (g) Kilograms (kg)",
+
+    "unt_capacity_nme": "Capacity (Metric)",
+    "unt_capacity_dsc": "Liters (l), Milliliters (mL)",
+
+
+    "unt_inches_nme": "Inches",
+    "unt_inches_sbl": "in",
+    "unt_feet_nme": "Feet",
+    "unt_feet_sbl": "ft",
+    "unt_yards_nme": "Yards",
+    "unt_yards_sbl": "yd",
+
+    "unt_millimeters_nme": "Millimeters",
+    "unt_millimeters_sbl": "mm",
+    "unt_centimeters_nme": "Centimeters",
+    "unt_centimeters_sbl": "cm",
+    "unt_decimeters_nme": "Decimeters",
+    "unt_decimeters_sbl": "dm",
+    "unt_meters_nme": "Meters",
+    "unt_meters_sbl": "m",
+    "unt_kilometers_nme": "Kilometers",
+    "unt_kilometers_sbl": "km",
+
+    "unt_pounds_nme": "Pounds",
+    "unt_pounds_sbl": "lb",
+    "unt_ounces_nme": "Ounces",
+    "unt_ounces_sbl": "oz",
+    "unt_milligrams_nme": "Milligrams",
+    "unt_milligrams_sbl": "mg",
+    "unt_grams_nme": "Grams",
+    "unt_grams_sbl": "g",
+    "unt_kilograms_nme": "Kilograms",
+    "unt_kilograms_sbl": "kg",
+
+    "unt_seconds_nme": "Seconds",
+    "unt_seconds_sbl": "secs",
+    "unt_minutes_nme": "Minutes",
+    "unt_minutes_sbl": "mins",
+    "unt_hours_nme": "Hours",
+    "unt_hours_sbl": "hrs",
+
+    "unt_milliliters_nme": "Millileters",
+    "unt_milliliters_sbl": "mL",
+    "unt_liters_nme": "Liters",
+    "unt_liters_sbl": "l",
+
+
+    "kwd_input": "Antre",
+    "kwd_output": "Pwodiksyon",
+    "kwd_switch": "Chanje",
+
+
+    "kwd_one": "Youn",
+    "kwd_two": "De",
+    "kwd_three": "Twa",
+    "kwd_four": "Kat",
+    "kwd_five": "Senk",
+
+    "kwd_six": "Sis",
+    "kwd_seven": "Sèt",
+    "kwd_eight": "Uit",
+    "kwd_nine": "Nèf",
+    "kwd_zero": "Zewo",
+
+    "kwd_decimalPoint": "Pwen desimal",
+    "kwd_multiply": "Miltipliye",
+    "kwd_divide": "Divize",
+    "kwd_equals": "Egal",
+
+    "kwd_backspace": "Backspace",
+    "kwd_delete": "Efase",
+    "kwd_clear": "Klè",
+    "kwd_clear_sbl": "C",
+
+    "kwd_error": "Erè",
+
+
+    "kwd_world": "Monn",
+    "kwd_stageSelect": "Chwazi nivo",
+    "kwd_stage": "Nivo",
+
+    "kwd_all": "Tout",
+    "kwd_none": "Pa gen okenn",
+
+    "stg_mix1_nme": "Melanj 1",
+    "stg_mix1_dsc": "Longè (Imperyal), Pwa (Imperyal), Tan",
+
+    "stg_mix2_nme": "Melanj 2",
+    "stg_mix2_dsc": "Longè (Metrik), Pwa (Metrik), Kapasite (Metrik)",
+
+    "stg_mix3_nme": "Melanj 3",
+    "stg_mix3_dsc": "Tout",
+
+
+    "kwd_time": "Tan",
+    "kwd_score": "Nòt",
+    "kwd_points": "Pwen",
+    "kwd_combo": "Konbo",
+    "kwd_highestCombo": "Pi gwo konbo",
+    "kwd_restart": "Rekòmanse",
+    "kwd_speed": "Vitès",
+
+
+    "kwd_correct": "Kòrèk!",
+    "kwd_incorrect": "Pa kòrèk!",
+
+
+    "kwd_stageEnd": "Fen nivo a",
+    "kwd_stageClear": "Nivo fini",
+    "kwd_stageWon": "Nivo a genyen",
+    "kwd_stageFailed": "Nivo a echwe",
+    "kwd_stageLost": "Nivo pèdi",
+
+
+    "chr_partnerA_nme": "Reteor",
+    "chr_partnerB_nme": "Astrite",
+
+
+    "trl_intro_00": "Byenveni nan Ekip Atak Météor (MST)! Nou swiv météor yo epi nou detwi yo anvan yo frape sifas Latè a, epi nou fè sa lè nou konvèti inite mezi ki pi gwo yo an inite mezi ki pi piti yo. Sa a se zòn mond lan, se la ou chwazi nivo yo, wè enfòmasyon sou inite yo, chanje anviwònman jwèt la, epi sove jwèt ou a. Mwen se Reteor...",
+    "trl_intro_01": "E mwen se Astrite! Lè ou chwazi yon nivo, inite ou pral travay avèk yo ap parèt. Yon fwa yo bay enfòmasyon sa a, yo ajoute li nan 'meni enfòmasyon sou inite yo', ou ka gade li ak 'bouton enfòmasyon sou inite yo'. Apre tout sa fin eksplike, tanpri chwazi nivo ki disponib la pou kòmanse detwi météor yo!",
+
+    "trl_firstStage_00": "Byenveni nan zòn nivo a, se la ou pral tire météor yo desann. Lè yo vize yon météor, yo ba ou yon konvèsyon pou rezoud. Si konvèsyon an reyisi, ou jwenn pwen, epi lè ou gen ase pwen, nivo a fini. Men si sifas Latè a pran twòp domaj, ou pèdi nivo a.",
+    "trl_firstStage_01": "Yo vize météor yo otomatikman, men ou ka tou vize manyèlman météor ki pa deplase yo lè w klike oswa touche yo. Lè yo vize yon météor, yo montre ou diferan rezilta konvèsyon ak miltiplikatè yo te itilize pou jwenn yo. Yon fwa ou chwazi yon rezilta (fason pou fè sa a varye selon nivo a), yon tir lazè pral tire sou météor yo vize a.",
+    "trl_firstStage_02": "Si ou chwazi bon rezilta a, météor yo vize a ap detwi, ekran an ap bat an vèt, epi tèks \"Kòrèk!\" ap parèt anba fenèt nivo a. Si ou chwazi yon rezilta ki pa bon, météor yo vize a ap pwoche pi pre sifas Latè a, ou pral etoudi pou yon ti moman, ekran an ap bat an ble, epi tèks \"Pa kòrèk!\" ap parèt anba fenèt nivo a. Li enpòtan pou konnen, yon fwa yon météor parèt, li sèlman deplase lè yon tir lazè frape li men li pa detwi l.",
+    "trl_firstStage_03": "Sou bò gòch la gen ba pwen yo, ba sante sifas la, ak kalkilatris la. Sou bò dwat la gen bouton anviwònman yo, bouton mond lan, ak tablo konvèsyon inite yo. \"Tablo konvèsyon inite yo\" montre tout konvèsyon inite yo pou gwoup inite aktyèl la. Si ou gen difikilte pou jwenn bon rezilta a, eseye sèvi ak kalkilatris la pou rezoud ekwasyon an. Ak tout sa yo di, ann kòmanse nivo a!",
+
+    "trl_hiddenMultiples_00": "Miltiplikatè yo kache! Si ou fè ase konvèsyon kòrèk youn apre lòt, miltiplikatè konvèsyon yo ap disparèt. Y ap parèt ankò apre yon ti tan, men tann sa a ap fè nivo a pran plis tan. Si ou fè yon konvèsyon mal, miltiplikatè yo ap kòmanse parèt imedyatman tankou anvan, sof si ou jwenn ase repons kòrèk youn apre lòt ankò.",
+
+    "trl_barrier_00": "Yon baryè te frape! Lè yon météor frape yon baryè, météor la detwi. Baryè a pran domaj, epi ekran an bat an zoranj. Si yon baryè pran twòp domaj, li pral detwi, sa ki louvri yon pasaj pou météor yo frape sifas Latè a epi domaje li. Yon fwa ou genyen ase pwen, yo retabli yon baryè.",
+
+    "trl_surface_00": "Sifas Latè a pran domaj! Lè sifas la pran domaj, ekran an bat an wouj. Sonje: si sifas la pran twòp domaj, ou pèdi nivo a.",
+
+    "trl_pzl_buttons": "Sa a se yon devinèt bouton inite! Soumèt yon rezilta lè w chwazi bouton li tache ak li a.",
+
+    "trl_pzl_swap": "Sa a se yon devinèt echanj! Senbòl yo nan zòn devinèt la chanje plas lè ba tan an nan zòn devinèt la fini nèt. Chwazi yon rezilta lè w sèvi ak youn nan senbòl ki koresponn ak li yo nan zòn devinèt la.",
+
+    "trl_pzl_slide": "Sa a se yon devinèt glise! Senbòl yo glise atravè zòn devinèt la pandan yo vize yon météor. Chwazi yon rezilta lè w sèvi ak youn nan senbòl ki koresponn ak li yo nan zòn devinèt la.",
+
+    "trl_pzl_path": "Sa a se yon devinèt chemen! Senbòl yo deplase sou chemen an nan zòn devinèt la pandan yo vize yon météor. Chwazi yon rezilta lè w sèvi ak senbòl ki koresponn ak li a nan zòn devinèt la.",
+
+    "trl_firstWin_00": "Ou fin pase premye nivo a, sa ki debloke menm plis nivo toujou! Plis ou bat nivo, plis nivo ou pral debloke. Nan nivo ki disponib yo, ou ka fini yo nan nenpòt lòd, men ou dwe bat tout nivo yo pou fini jwèt la.",
+
+    "trl_mixStage_00": "Sa a se yon nivo melanje. Nivo melanje yo fè w travay ak plizyè gwoup inite an menm tan. Ou pral sèlman jwenn yon nivo melanje apre ou fin fè eksperyans tout gwoup inite ki enpòtan yo.",
+
+    "trl_lengthImperial_00": "Inite sa yo itilize pou mezire konbyen yon bagay long.",
+
+    "trl_weightImperial_00": "Inite sa yo itilize pou mezire kijan yon bagay lou.",
+
+    "trl_time_00": "Inite sa yo itilize pou mezire longè tan.",
+
+    "trl_lengthMetric_00": "Inite sa yo itilize pou mezire konbyen yon bagay long.",
+
+    "trl_weightMetric_00": "Inite sa yo itilize pou mezire kijan yon bagay lou.",
+
+    "trl_capacity_00": "Inite sa yo itilize pou mezire konbyen likid yon veso ka kenbe.",
+
+
+    "kwd_gameComplete": "Je a fini!",
+
+    "kwd_results": "Rezilta",
+
+    "kwd_gameTime": "Tan jwèt la",
+    "kwd_gameScore": "Pwen jwèt la",
+    "kwd_finish": "Fini"
+  },
+  "it": {
+    "_stop_": "",
+
+    "gameTitle": "Meteor Strike Team",
+    "gameTitleShort": "MST",
+
+    "kwd_title": "Titolo",
+    "kwd_start": "Avvia",
+    "kwd_newGame": "Nuova partita",
+    "kwd_continue": "Continua",
+    "kwd_instructions": "Istruzioni",
+    "kwd_settings": "Impostazioni",
+    "kwd_licenses": "Licenze",
+    "kwd_quit": "Esci",
+
+    "kwd_back": "Indietro",
+
+    "mnu_instructions_dsc": "In questo gioco devi distruggere i meteoriti rispondendo correttamente alle domande di conversione delle unità. Per interagire con gli elementi del gioco, usa il mouse o i controlli touch. Scegli i livelli nell'area del mondo e selezioni i risultati della conversione delle unità nell'area del livello.",
+
+    "kwd_volume": "Volume",
+    "kwd_bgmVolume": "Volume della musica di sottofondo (BGM)",
+    "kwd_sfxVolume": "Volume degli effetti sonori (SFX)",
+    "kwd_ttsVolume": "Volume del testo in voce (TTS)",
+    "kwd_mute": "Silenzia",
+    "kwd_textToSpeech": "Testo in voce",
+    "kwd_tutorial": "Tutorial",
+    "kwd_tutorials": "Tutorial",
+
+    "mnu_licenses_dsc": "Le risorse fornite sono state modificate per essere usate in questo gioco.",
+    "kwd_bgms": "Colonne sonore",
+    "kwd_sfxs": "Effetti sonori",
+    "kwd_fonts": "Font",
+
+
+    "kwd_units": "Unità",
+    "kwd_unitsInfo": "Info sulle unità",
+
+
+    "kwd_save": "Salva",
+    "sve_msg_savingGame": "Salvataggio...",
+
+
+    "unt_lengthImperial_nme": "Lunghezza (Imperiale)",
+    "unt_lengthImperial_dsc": "Pollici (in), Piedi (ft), Iarde (yd)",
+
+    "unt_weightImperial_nme": "Peso (Imperiale)",
+    "unt_weightImperial_dsc": "Libbre (lb), Once (oz)",
+
+    "unt_time_nme": "Tempo",
+    "unt_time_dsc": "Secondi (secs), Minuti (mins), Ore (hrs)",
+
+    "unt_lengthMetric_nme": "Lunghezza (Metrica)",
+    "unt_lengthMetric_dsc": "Millimetri (mm), Centimetri (cm), Decimetri (dm), Metri (m), Chilometri (km)",
+
+    "unt_weightMetric_nme": "Peso (Metrico)",
+    "unt_weightMetric_dsc": "Milligrammi (mg), Grammi (g), Chilogrammi (kg)",
+
+    "unt_capacity_nme": "Capacità (Metrica)",
+    "unt_capacity_dsc": "Litri (l), Millilitri (mL)",
+
+
+    "unt_inches_nme": "Pollici",
+    "unt_inches_sbl": "in",
+    "unt_feet_nme": "Piedi",
+    "unt_feet_sbl": "ft",
+    "unt_yards_nme": "Iarde",
+    "unt_yards_sbl": "iarde",
+
+    "unt_millimeters_nme": "Millimetri",
+    "unt_millimeters_sbl": "mm",
+    "unt_centimeters_nme": "Centimetri",
+    "unt_centimeters_sbl": "cm",
+    "unt_decimeters_nme": "Decimetri",
+    "unt_decimeters_sbl": "dm",
+    "unt_meters_nme": "Metri",
+    "unt_meters_sbl": "m",
+    "unt_kilometers_nme": "Chilometri",
+    "unt_kilometers_sbl": "km",
+
+    "unt_pounds_nme": "Libbre",
+    "unt_pounds_sbl": "lb",
+    "unt_ounces_nme": "Once",
+    "unt_ounces_sbl": "oz",
+    "unt_milligrams_nme": "Milligrammi",
+    "unt_milligrams_sbl": "mg",
+    "unt_grams_nme": "Grammi",
+    "unt_grams_sbl": "g",
+    "unt_kilograms_nme": "Chilogrammi",
+    "unt_kilograms_sbl": "kg",
+
+    "unt_seconds_nme": "Secondi",
+    "unt_seconds_sbl": "secs",
+    "unt_minutes_nme": "Minuti",
+    "unt_minutes_sbl": "mins",
+    "unt_hours_nme": "Ore",
+    "unt_hours_sbl": "hrs",
+
+    "unt_milliliters_nme": "Millilitri",
+    "unt_milliliters_sbl": "mL",
+    "unt_liters_nme": "Litri",
+    "unt_liters_sbl": "l",
+
+
+    "kwd_input": "Input",
+    "kwd_output": "Output",
+    "kwd_switch": "Scambia",
+
+
+    "kwd_one": "Uno",
+    "kwd_two": "Due",
+    "kwd_three": "Tre",
+    "kwd_four": "Quattro",
+    "kwd_five": "Cinque",
+
+    "kwd_six": "Sei",
+    "kwd_seven": "Sette",
+    "kwd_eight": "Otto",
+    "kwd_nine": "Nove",
+    "kwd_zero": "Zero",
+
+    "kwd_decimalPoint": "Punto decimale",
+    "kwd_multiply": "Moltiplica",
+    "kwd_divide": "Dividi",
+    "kwd_equals": "Uguale",
+
+    "kwd_backspace": "Backspace",
+    "kwd_delete": "Elimina",
+    "kwd_clear": "Cancella",
+    "kwd_clear_sbl": "C",
+
+    "kwd_error": "Errore",
+
+
+    "kwd_world": "Mondo",
+    "kwd_stageSelect": "Seleziona fase",
+    "kwd_stage": "Livello",
+
+    "kwd_all": "Tutti",
+    "kwd_none": "Nessuno",
+
+    "stg_mix1_nme": "Miscela 1",
+    "stg_mix1_dsc": "Lunghezza (imperiale), Peso (imperiale), Tempo",
+
+    "stg_mix2_nme": "Miscela 2",
+    "stg_mix2_dsc": "Lunghezza (metrica), Peso (metrica), Capacità (metrica)",
+
+    "stg_mix3_nme": "Miscela 3",
+    "stg_mix3_dsc": "Tutto",
+
+
+    "kwd_time": "Tempo",
+    "kwd_score": "Punteggio",
+    "kwd_points": "Punti",
+    "kwd_combo": "Combo",
+    "kwd_highestCombo": "Combo più alta",
+    "kwd_restart": "Ricomincia",
+    "kwd_speed": "Velocità",
+
+
+    "kwd_correct": "Corretto!",
+    "kwd_incorrect": "Sbagliato!",
+
+
+    "kwd_stageEnd": "Fine della fase",
+    "kwd_stageClear": "Stage completato",
+    "kwd_stageWon": "Fase vinta",
+    "kwd_stageFailed": "Fase fallita",
+    "kwd_stageLost": "Fase persa",
+
+
+    "chr_partnerA_nme": "Reteor",
+    "chr_partnerB_nme": "Astrite",
+
+
+    "trl_intro_00": "Benvenuto nella Meteor Strike Team (MST)! Tracciamo i meteoriti e li distruggiamo prima che colpiscano la superficie della Terra, cosa che facciamo convertendo le unità di misura più grandi in unità di misura più piccole. Questa è l'area del mondo, dove selezioni i livelli, visualizzi le informazioni sulle unità, cambi le impostazioni del gioco e salvi il gioco. Io sono Reteor...",
+    "trl_intro_01": "E io sono Astrite! Quando selezioni un livello, vengono mostrate le unità con cui lavorerai. Una volta fornite queste informazioni, vengono aggiunte al 'menu informazioni sulle unità', che può essere visualizzato usando il 'pulsante informazioni sulle unità'. Con tutto questo spiegato, seleziona il livello disponibile per iniziare a distruggere meteoriti!",
+
+    "trl_firstStage_00": "Benvenuto nell'area del livello, dove abbatterai i meteoriti. Quando un meteorite è preso di mira, ti viene proposta una conversione da risolvere. Se la conversione ha successo, ottieni punti e, quando ne ottieni abbastanza, il livello è completato. Ma se la superficie della Terra subisce troppi danni, il livello è perso.",
+    "trl_firstStage_01": "I meteoriti vengono presi di mira automaticamente, ma puoi anche prendere di mira manualmente i meteoriti fermi facendo clic o toccandoli. Quando un meteorite è preso di mira, ti vengono mostrate diverse risposte di conversione e i moltiplicatori usati per ottenerle. Dopo aver selezionato una risposta (il modo di farlo varia in base al livello), viene sparato un laser contro il meteorite preso di mira.",
+    "trl_firstStage_02": "Se hai selezionato la risposta corretta, il meteorite preso di mira viene distrutto, lo schermo lampeggia in verde e appare il testo \"Corretto!\" nella parte inferiore della finestra del livello. Se hai selezionato una risposta errata, il meteorite preso di mira si avvicina alla superficie della Terra, vieni stordito per un breve momento, lo schermo lampeggia in blu e appare il testo \"Errato!\" nella parte inferiore della finestra del livello. Nota che, dopo la comparsa di un meteorite, si muove solo quando viene colpito da un colpo di laser che non riesce a distruggerlo.",
+    "trl_firstStage_03": "A sinistra ci sono la barra dei punti, la barra della salute della superficie e la calcolatrice. A destra ci sono il pulsante delle impostazioni, il pulsante del mondo e la tabella di conversione delle unità. La 'tabella di conversione delle unità' mostra tutte le conversioni delle unità per il gruppo di unità corrente. Se hai difficoltà a trovare la risposta corretta, prova a usare la calcolatrice per risolvere l'equazione. Detto questo, è ora di iniziare il livello!",
+
+    "trl_hiddenMultiples_00": "I moltiplicatori sono diventati nascosti! Se esegui abbastanza conversioni corrette di fila, i moltiplicatori di conversione scompariranno. Ricompariranno dopo poco, ma aspettare che succeda fa durare più a lungo il livello. Se sbagli una conversione, i moltiplicatori ricominceranno a comparire subito come prima, a meno che tu non ottenga di nuovo abbastanza risposte corrette consecutive.",
+
+    "trl_barrier_00": "Una barriera è stata colpita! Quando un meteoroide colpisce una barriera, il meteoroide viene distrutto. La barriera subisce danni e lo schermo lampeggia in arancione. Se una barriera subisce troppi danni, verrà distrutta, lasciando un'apertura perché i meteoroidi colpiscano la superficie della Terra e la danneggino. Quando ottieni abbastanza punti, una barriera viene ripristinata.",
+
+    "trl_surface_00": "La superficie della Terra ha subito danni! Quando la superficie subisce danni, lo schermo lampeggia in rosso. Ricorda: se la superficie subisce troppi danni, il livello è perso.",
+
+    "trl_pzl_buttons": "Questo è un puzzle a bottoni delle unità! Invia una risposta selezionando il bottone a cui è collegata.",
+
+    "trl_pzl_swap": "Questo è un puzzle di scambio! I simboli nell'area del puzzle cambiano posto quando la barra del tempo nell'area del puzzle si esaurisce del tutto. Seleziona una risposta usando uno dei simboli corrispondenti nell'area del puzzle.",
+
+    "trl_pzl_slide": "Questo è un puzzle a scorrimento! I simboli scorrono nell'area del puzzle mentre un meteorite è preso di mira. Seleziona una risposta usando uno dei simboli corrispondenti nell'area del puzzle.",
+
+    "trl_pzl_path": "Questo è un puzzle a percorso! I simboli si muovono lungo il percorso nell'area del puzzle mentre un meteorite è preso di mira. Seleziona una risposta usando il simbolo corrispondente nell'area del puzzle.",
+
+    "trl_firstWin_00": "Hai completato il primo livello, e questo ha sbloccato ancora più livelli! Più livelli superi, più livelli sbloccherai. Dei livelli disponibili, puoi completarli in qualsiasi ordine, ma devi superarli tutti per finire il gioco.",
+
+    "trl_mixStage_00": "Questo è un livello misto. I livelli misti ti fanno gestire più gruppi di unità alla volta. Giocherai un livello misto solo dopo aver provato tutti i gruppi di unità rilevanti.",
+
+    "trl_lengthImperial_00": "Queste unità si usano per misurare quanto è lungo qualcosa.",
+
+    "trl_weightImperial_00": "Queste unità sono usate per misurare quanto qualcosa è pesante.",
+
+    "trl_time_00": "Queste unità sono usate per misurare durate di tempo.",
+
+    "trl_lengthMetric_00": "Queste unità si usano per misurare quanto è lungo qualcosa.",
+
+    "trl_weightMetric_00": "Queste unità sono usate per misurare quanto qualcosa è pesante.",
+
+    "trl_capacity_00": "Queste unità si usano per misurare quanto liquido può contenere un contenitore.",
+
+
+    "kwd_gameComplete": "Partita completata!",
+
+    "kwd_results": "Risultati",
+
+    "kwd_gameTime": "Tempo di gioco",
+    "kwd_gameScore": "Punteggio di gioco",
+    "kwd_finish": "Finisci"
+  },
+  "lou": {
+    "_stop_": "",
+
+    "gameTitle": "Ékip Frapé Météòr",
+    "gameTitleShort": "EFM",
+
+    "kwd_title": "Tit",
+    "kwd_start": "Kòmansé",
+    "kwd_newGame": "Nouvo jwèt",
+    "kwd_continue": "Kontinye",
+    "kwd_instructions": "Enstriksyon yo",
+    "kwd_settings": "Anviwònman",
+    "kwd_licenses": "Lisans",
+    "kwd_quit": "Sòti",
+
+    "kwd_back": "Tounen",
+
+    "mnu_instructions_dsc": "Jé sa a fè ou detwi météò lè ou byen reponn kestyon konvèzyon inite yo. Pou entèraji ak éléman jé a, sèvi swa ak souri a osnon ak kontwòl touch. Ou chwazi nivo yo nan zòn monn nan epi ou chwazi sòti konvèzyon inite yo nan zòn nivo a.",
+
+    "kwd_volume": "Volim",
+    "kwd_bgmVolume": "Volim mizik fon (BGM)",
+    "kwd_sfxVolume": "Volim efè son (SFX)",
+    "kwd_ttsVolume": "Volim tèks-an-vwa (TTS)",
+    "kwd_mute": "Mété an silans",
+    "kwd_textToSpeech": "Tèks-an-vwa",
+    "kwd_tutorial": "Didaktik",
+    "kwd_tutorials": "Didaktik",
+
+    "mnu_licenses_dsc": "Resous yo te modifye pou sèvi nan jé sa a.",
+    "kwd_bgms": "Mizik fon (BGM)",
+    "kwd_sfxs": "Efè son (SFX)",
+    "kwd_fonts": "Polis",
+
+
+    "kwd_units": "Inite",
+    "kwd_unitsInfo": "Enfòmasyon sou inite yo",
+
+
+    "kwd_save": "Sove",
+    "sve_msg_savingGame": "Ka sove...",
+
+
+    "unt_lengthImperial_nme": "Longè (Imeryèl)",
+    "unt_lengthImperial_dsc": "Pous (in), Pye (ft), Yad (yd)",
+
+    "unt_weightImperial_nme": "Pwa (Imeryèl)",
+    "unt_weightImperial_dsc": "Liv (lb), Ons (oz)",
+
+    "unt_time_nme": "Tan",
+    "unt_time_dsc": "Segonn (secs), Minit (mins), Lè (hrs)",
+
+    "unt_lengthMetric_nme": "Longè (Métrik)",
+    "unt_lengthMetric_dsc": "Milimèt (mm), Santimèt (cm), Desimèt (dm), Mèt (m), Kilomèt (km)",
+
+    "unt_weightMetric_nme": "Pwa (Métrik)",
+    "unt_weightMetric_dsc": "Miligram (mg), Gram (g) Kilogram (kg)",
+
+    "unt_capacity_nme": "Kapasite (Métrik)",
+    "unt_capacity_dsc": "Lit (l), mililit (mL)",
+
+
+    "unt_inches_nme": "Pous",
+    "unt_inches_sbl": "in",
+    "unt_feet_nme": "Pye",
+    "unt_feet_sbl": "ft",
+    "unt_yards_nme": "Yad",
+    "unt_yards_sbl": "yad",
+
+    "unt_millimeters_nme": "Milimèt",
+    "unt_millimeters_sbl": "mm",
+    "unt_centimeters_nme": "Santimèt",
+    "unt_centimeters_sbl": "cm",
+    "unt_decimeters_nme": "Desimèt",
+    "unt_decimeters_sbl": "dm",
+    "unt_meters_nme": "Mèt",
+    "unt_meters_sbl": "m",
+    "unt_kilometers_nme": "Kilomèt",
+    "unt_kilometers_sbl": "km",
+
+    "unt_pounds_nme": "Liv",
+    "unt_pounds_sbl": "lb",
+    "unt_ounces_nme": "Ons",
+    "unt_ounces_sbl": "oz",
+    "unt_milligrams_nme": "Miligram",
+    "unt_milligrams_sbl": "mg",
+    "unt_grams_nme": "Gram",
+    "unt_grams_sbl": "g",
+    "unt_kilograms_nme": "Kilogram",
+    "unt_kilograms_sbl": "kg",
+
+    "unt_seconds_nme": "Segonn",
+    "unt_seconds_sbl": "secs",
+    "unt_minutes_nme": "Minit",
+    "unt_minutes_sbl": "mins",
+    "unt_hours_nme": "Lè",
+    "unt_hours_sbl": "hrs",
+
+    "unt_milliliters_nme": "Mililit",
+    "unt_milliliters_sbl": "mL",
+    "unt_liters_nme": "Lit",
+    "unt_liters_sbl": "l",
+
+
+    "kwd_input": "Antre",
+    "kwd_output": "Sòti",
+    "kwd_switch": "Chanjé",
+
+
+    "kwd_one": "Yonn",
+    "kwd_two": "Dé",
+    "kwd_three": "Twa",
+    "kwd_four": "Kat",
+    "kwd_five": "Senk",
+
+    "kwd_six": "Sis",
+    "kwd_seven": "Sèt",
+    "kwd_eight": "Wit",
+    "kwd_nine": "Nèf",
+    "kwd_zero": "Zewo",
+
+    "kwd_decimalPoint": "Pon desimal",
+    "kwd_multiply": "Miltipliye",
+    "kwd_divide": "Divize",
+    "kwd_equals": "Egal",
+
+    "kwd_backspace": "Retounen efase",
+    "kwd_delete": "Efase",
+    "kwd_clear": "Vide",
+    "kwd_clear_sbl": "V",
+
+    "kwd_error": "Erè",
+
+
+    "kwd_world": "Monn",
+    "kwd_stageSelect": "Chwazi nivo",
+    "kwd_stage": "Nivo",
+
+    "kwd_all": "Tou",
+    "kwd_none": "Okenn",
+
+    "stg_mix1_nme": "Mélanj 1",
+    "stg_mix1_dsc": "Longè (Imeryal), Pwa (Imeryal), Tan",
+
+    "stg_mix2_nme": "Mélanj 2",
+    "stg_mix2_dsc": "Longè (Metrik), Pwa (Metrik), Kapasite (Metrik)",
+
+    "stg_mix3_nme": "Mélanj 3",
+    "stg_mix3_dsc": "Tou",
+
+
+    "kwd_time": "Tan",
+    "kwd_score": "Pwen",
+    "kwd_points": "Pwen",
+    "kwd_combo": "Konbò",
+    "kwd_highestCombo": "Pi gwo konbò",
+    "kwd_restart": "Rekòmanse",
+    "kwd_speed": "Vitès",
+
+
+    "kwd_correct": "Bon!",
+    "kwd_incorrect": "Pa bon!",
+
+
+    "kwd_stageEnd": "Fen nivo",
+    "kwd_stageClear": "Nivo a klè",
+    "kwd_stageWon": "Nivo a genyen",
+    "kwd_stageFailed": "Nivo a echoué",
+    "kwd_stageLost": "Nivo a pèdi",
+
+
+    "chr_partnerA_nme": "Reteor",
+    "chr_partnerB_nme": "Astrite",
+
+
+    "trl_intro_00": "Byenvini nan Ékip Frapé Météò (EFM)! Nou swiv météò epi detwi yo anvan yo frape sifas Latè a, sa nou fè lè nou konvèti pi gwo inite mezi an pi piti inite mezi. Sa sé zòn monn nan, sé la ou chwazi nivo, gade enfòmasyon sou inite, chanje paramèt jwèt la, epi sove jwèt ou a. Mwen sé Reteor...",
+    "trl_intro_01": "E mwen sé Astrite! Lè ou chwazi yon nivo, inite ou va sèvi avè yo va parèt. Lè yo bay enfòmasyon sa a, yo mete li nan \"meni enfòmasyon inite\" a, ou ka gade li ak \"bouton enfòmasyon inite\" a. Bon, tout bagay sa yo te esplike, tanpri chwazi nivo ki disponib la pou kòmanse detwi météò!",
+
+    "trl_firstStage_00": "Byenvini nan zòn nivo a, sé la ou ka tire météò anba. Lè yo vize yon météò, yo ba ou yon konvèzyon pou ou rezoud. Si konvèzyon an bon, ou pran pwen, épi lè ou pran ase pwen, nivo a fini. Men si sifas Latè a pran twòp domaj, nivo a pèdi.",
+    "trl_firstStage_01": "Météò yo vize otomatikman, men ou ka vize météò ki pa bouje yo manyèlman tou lè ou klike sou yo/oswa touche yo. Lè yo vize yon météò, yo montre ou divès sòti konvèzyon ak miltiplikatè yo te sèvi pou jwenn yo. Lè ou chwazi yon sòti (fason pou fè sa ka chanje dapre nivo a), yo voye yon kout lazè sou météò ki vize a.",
+    "trl_firstStage_02": "Si ou chwazi bon sòti a, yo detwi météò ki vize a, ékran an klignote vè, épi tèks \"Correct!\" ap parèt anba fenèt nivo a. Si ou chwazi yon move sòti, météò ki vize a vin pi pre sifas Latè a, ou tranble yon ti moman, ékran an klignote ble, épi tèks \"Incorrect!\" ap parèt anba fenèt nivo a. Li enpòtan pou konnen: yon fwa yon météò parèt, li bouje sèlman lè yon kout lazè frape li san li pa detwi li.",
+    "trl_firstStage_03": "Sou bò goch la, ou ka wè ba pwen yo, ba lasante sifas la, épi kalkilatris la. Sou bò dwat la, ou ka wè bouton paramèt yo, bouton monn nan, épi tablo konvèzyon inite yo. \"Tablo konvèzyon inite\" a ka montre tout konvèzyon inite pou gwoup inite aktyèl la. Si ou gen pwoblèm pou jwenn bon sòti a, sèvi ak kalkilatris la pou rezoud ekwasyon an. Bon, ann kòmanse nivo a!",
+
+    "trl_hiddenMultiples_00": "Miltiplikatè yo vin kache! Si ou fè ase konvèzyon kòrèk youn apre lòt, miltiplikatè konvèzyon yo va disparèt. Yo va vin vizib ankò nan yon ti tan, men si ou tann sa rive, nivo a ap pran plis tan. Si ou fè yon konvèzyon mal, miltiplikatè yo va kòmanse parèt tousuit ankò tankou anvan, sòf si ou fè ase repons kòrèk youn apre lòt ankò.",
+
+    "trl_barrier_00": "Yo frape yon baryè! Lè yon météò frape yon baryè, météò a detwi. Baryè a pran domaj, ékran an klignote zoranj. Si yon baryè pran twòp domaj, yo va detwi li, sa ki kite yon ouvèti pou météò frape sifas Latè a épi domaje li. Lè ou jwenn ase pwen, yo retabli yon baryè.",
+
+    "trl_surface_00": "Sifas Latè a pran domaj! Lè sifas la pran domaj, ékran an klignote wouj. Sonje: si sifas la pran twòp domaj, nivo a pèdi.",
+
+    "trl_pzl_buttons": "Sa sé yon pyon bouton inite! Soumèt yon sòti lè ou chwazi bouton li kole a.",
+
+    "trl_pzl_swap": "Sa sé yon pyon echanj! Senbòl nan zòn pyon an chanje plas lè ba tan an nan zòn pyon an fini nèt. Chwazi yon sòti lè ou sèvi ak youn nan senbòl ki koresponn avè li nan zòn pyon an.",
+
+    "trl_pzl_slide": "Sa sé yon pyon glise! Senbòl yo glise atravè zòn pyon an pandan yo vize yon météò. Chwazi yon sòti lè ou sèvi ak youn nan senbòl ki koresponn avè li nan zòn pyon an.",
+
+    "trl_pzl_path": "Sa sé yon pyon chemen! Senbòl yo mache sou chemen an nan zòn pyon an pandan yo vize yon météò. Chwazi yon sòti lè ou sèvi ak senbòl ki koresponn avè li nan zòn pyon an.",
+
+    "trl_firstWin_00": "Ou fini premye nivo a, épi sa débloké menm plis nivo! Plis ou bat nivo yo, plis nivo ou va débloké. Pami nivo ki disponib yo, ou ka fini yo nan nenpòt lòd, men ou dwe bat yo tout pou fini jwèt la.",
+
+    "trl_mixStage_00": "Sa sé yon nivo melanj. Nivo melanj fè ou travay ak plizyè gwoup inite an menm tan. Ou va fè yon nivo melanj sèlman apre ou fin fè tout gwoup inite ki konsène yo.",
+
+    "trl_lengthImperial_00": "Inite sa yo sèvi pou mezire konbyen long yon bagay ye.",
+
+    "trl_weightImperial_00": "Inite sa yo sèvi pou mezire konbyen lou an bagay yé.",
+
+    "trl_time_00": "Inite sa yo sèvi pou mezire longè tan.",
+
+    "trl_lengthMetric_00": "Inite sa yo sèvi pou mezire konbyen long yon bagay ye.",
+
+    "trl_weightMetric_00": "Inite sa yo sèvi pou mezire konbyen lou an bagay yé.",
+
+    "trl_capacity_00": "Inite sa yo sèvi pou mezire konbyen likid yon resipyan ka kenbe.",
+
+
+    "kwd_gameComplete": "Jwèt la fini!",
+
+    "kwd_results": "Rezilta",
+
+    "kwd_gameTime": "Lè jwèt",
+    "kwd_gameScore": "Pwen jwèt",
+    "kwd_finish": "Fini"
+  },
+  "pt-BR": {
+    "_stop_": "",
+
+    "gameTitle": "Meteor Strike Team",
+    "gameTitleShort": "MST",
+
+    "kwd_title": "Título",
+    "kwd_start": "Iniciar",
+    "kwd_newGame": "Novo jogo",
+    "kwd_continue": "Continuar",
+    "kwd_instructions": "Instruções",
+    "kwd_settings": "Configurações",
+    "kwd_licenses": "Licenças",
+    "kwd_quit": "Sair",
+
+    "kwd_back": "Voltar",
+
+    "mnu_instructions_dsc": "Neste jogo, você destrói meteoros respondendo corretamente a perguntas de conversão de unidades. Para interagir com os elementos do jogo, use o mouse ou os controles de toque. Você escolhe as fases na área do mundo e seleciona os resultados das conversões na área da fase.",
+
+    "kwd_volume": "Volume",
+    "kwd_bgmVolume": "Volume da música de fundo (BGM)",
+    "kwd_sfxVolume": "Volume do efeito sonoro (SFX)",
+    "kwd_ttsVolume": "Volume do texto para fala (TTS)",
+    "kwd_mute": "Mudo",
+    "kwd_textToSpeech": "Texto para fala",
+    "kwd_tutorial": "Tutorial",
+    "kwd_tutorials": "Tutoriais",
+
+    "mnu_licenses_dsc": "Os recursos de origem foram modificados para uso neste jogo.",
+    "kwd_bgms": "Músicas de fundo",
+    "kwd_sfxs": "Efeitos sonoros",
+    "kwd_fonts": "Fontes",
+
+
+    "kwd_units": "Unidades",
+    "kwd_unitsInfo": "Informações das unidades",
+
+
+    "kwd_save": "Salvar",
+    "sve_msg_savingGame": "Salvando...",
+
+
+    "unt_lengthImperial_nme": "Comprimento (imperial)",
+    "unt_lengthImperial_dsc": "Polegadas (in), pés (ft), jardas (yd)",
+
+    "unt_weightImperial_nme": "Peso (imperial)",
+    "unt_weightImperial_dsc": "Libras (lb), onças (oz)",
+
+    "unt_time_nme": "Tempo",
+    "unt_time_dsc": "Segundos (secs), minutos (mins), horas (hrs)",
+
+    "unt_lengthMetric_nme": "Comprimento (métrico)",
+    "unt_lengthMetric_dsc": "Milímetros (mm), centímetros (cm), decímetros (dm), metros (m), quilômetros (km)",
+
+    "unt_weightMetric_nme": "Peso (métrico)",
+    "unt_weightMetric_dsc": "Miligramas (mg), gramas (g), quilogramas (kg)",
+
+    "unt_capacity_nme": "Capacidade (métrica)",
+    "unt_capacity_dsc": "Litros (l), mililitros (mL)",
+
+
+    "unt_inches_nme": "Polegadas",
+    "unt_inches_sbl": "in",
+    "unt_feet_nme": "Pés",
+    "unt_feet_sbl": "ft",
+    "unt_yards_nme": "Jardas",
+    "unt_yards_sbl": "yd",
+
+    "unt_millimeters_nme": "Milímetros",
+    "unt_millimeters_sbl": "mm",
+    "unt_centimeters_nme": "Centímetros",
+    "unt_centimeters_sbl": "cm",
+    "unt_decimeters_nme": "Decímetros",
+    "unt_decimeters_sbl": "dm",
+    "unt_meters_nme": "Metros",
+    "unt_meters_sbl": "m",
+    "unt_kilometers_nme": "Quilômetros",
+    "unt_kilometers_sbl": "km",
+
+    "unt_pounds_nme": "Libras",
+    "unt_pounds_sbl": "lb",
+    "unt_ounces_nme": "Onças",
+    "unt_ounces_sbl": "oz",
+    "unt_milligrams_nme": "Miligramas",
+    "unt_milligrams_sbl": "mg",
+    "unt_grams_nme": "Gramas",
+    "unt_grams_sbl": "g",
+    "unt_kilograms_nme": "Quilogramas",
+    "unt_kilograms_sbl": "kg",
+
+    "unt_seconds_nme": "Segundos",
+    "unt_seconds_sbl": "secs",
+    "unt_minutes_nme": "Minutos",
+    "unt_minutes_sbl": "mins",
+    "unt_hours_nme": "Horas",
+    "unt_hours_sbl": "hrs",
+
+    "unt_milliliters_nme": "Mililitros",
+    "unt_milliliters_sbl": "mL",
+    "unt_liters_nme": "Litros",
+    "unt_liters_sbl": "l",
+
+
+    "kwd_input": "Entrada",
+    "kwd_output": "Saída",
+    "kwd_switch": "Alternar",
+
+
+    "kwd_one": "Um",
+    "kwd_two": "Dois",
+    "kwd_three": "Três",
+    "kwd_four": "Quatro",
+    "kwd_five": "Cinco",
+
+    "kwd_six": "Seis",
+    "kwd_seven": "Sete",
+    "kwd_eight": "Oito",
+    "kwd_nine": "Nove",
+    "kwd_zero": "Zero",
+
+    "kwd_decimalPoint": "Ponto decimal",
+    "kwd_multiply": "Multiplicar",
+    "kwd_divide": "Dividir",
+    "kwd_equals": "Igual",
+
+    "kwd_backspace": "Backspace",
+    "kwd_delete": "Apagar",
+    "kwd_clear": "Limpar",
+    "kwd_clear_sbl": "C",
+
+    "kwd_error": "Erro",
+
+
+    "kwd_world": "Mundo",
+    "kwd_stageSelect": "Selecionar nível",
+    "kwd_stage": "Nível",
+
+    "kwd_all": "Todos",
+    "kwd_none": "Nenhum",
+
+    "stg_mix1_nme": "Mistura 1",
+    "stg_mix1_dsc": "Comprimento (imperial), peso (imperial), tempo",
+
+    "stg_mix2_nme": "Mistura 2",
+    "stg_mix2_dsc": "Comprimento (métrico), peso (métrico), capacidade (métrica)",
+
+    "stg_mix3_nme": "Mistura 3",
+    "stg_mix3_dsc": "Todos",
+
+
+    "kwd_time": "Tempo",
+    "kwd_score": "Pontuação",
+    "kwd_points": "Pontos",
+    "kwd_combo": "Combo",
+    "kwd_highestCombo": "Maior combo",
+    "kwd_restart": "Reiniciar",
+    "kwd_speed": "Velocidade",
+
+
+    "kwd_correct": "Correto!",
+    "kwd_incorrect": "Incorreto!",
+
+
+    "kwd_stageEnd": "Fim do nível",
+    "kwd_stageClear": "Nível concluído",
+    "kwd_stageWon": "Nível vencido",
+    "kwd_stageFailed": "Nível perdido",
+    "kwd_stageLost": "Nível perdido",
+
+
+    "chr_partnerA_nme": "Reteor",
+    "chr_partnerB_nme": "Astrite",
+
+
+    "trl_intro_00": "Bem-vindo à Equipe de Ataque de Meteoros (MST)! Nós rastreamos meteoros e os destruímos antes que atinjam a superfície da Terra, e fazemos isso convertendo unidades de medida maiores em unidades de medida menores. Esta é a área do mundo, onde você escolhe fases, vê informações sobre as unidades, altera as configurações do jogo e salva seu jogo. Eu sou Reteor...",
+    "trl_intro_01": "E eu sou Astrite! Quando você seleciona uma fase, as unidades com as quais vai trabalhar são exibidas. Depois que essas informações são mostradas, elas são adicionadas ao “menu de informações sobre as unidades”, que pode ser visto usando o “botão de informações sobre as unidades”. Agora que tudo foi explicado, selecione a fase disponível para começar a destruir meteoros!",
+
+    "trl_firstStage_00": "Bem-vindo à área da fase, onde você vai derrubar meteoros. Quando um meteoro é alvo, uma conversão para resolver é apresentada. Se a conversão for bem-sucedida, você ganha pontos e, quando tiver pontos suficientes, a fase é concluída. Mas, se a superfície da Terra sofrer dano demais, a fase é perdida.",
+    "trl_firstStage_01": "Os meteoros são alvos automaticamente, mas você também pode selecionar manualmente meteoros parados clicando neles ou tocando neles. Quando um meteoro é alvo, diferentes resultados de conversão e os multiplicadores usados para obtê-los são apresentados. Depois que você seleciona um resultado (o jeito de fazer isso varia conforme a fase), um disparo de laser é feito contra o meteoro alvo.",
+    "trl_firstStage_02": "Se você tiver selecionado o resultado correto, o meteoro alvo é destruído, a tela pisca em verde e o texto “Correto!” aparece na parte de baixo da janela da fase. Se você tiver selecionado um resultado incorreto, o meteoro alvo se aproxima da superfície da Terra, você fica atordoado por um instante, a tela pisca em azul e o texto “Incorreto!” aparece na parte de baixo da janela da fase. Observação: depois que um meteoro aparece, ele só se move quando é atingido por um disparo de laser que não o destrói.",
+    "trl_firstStage_03": "À esquerda estão a barra de pontos, a barra de vida da superfície e a calculadora. À direita estão o botão de configurações, o botão do mundo e a tabela de conversão de unidades. A “tabela de conversão de unidades” mostra todas as conversões de unidades do grupo de unidades atual. Se você estiver com dificuldade para encontrar o resultado correto, tente usar a calculadora para resolver a equação. Agora que tudo foi explicado, hora de começar a fase!",
+
+    "trl_hiddenMultiples_00": "Os multiplicadores ficaram ocultos! Se você fizer conversões corretas suficientes em sequência, os multiplicadores de conversão desaparecerão. Eles voltarão a ficar visíveis depois de um pouco de tempo, mas esperar por isso fará a fase demorar mais. Se você errar uma conversão, os multiplicadores começarão a aparecer de novo imediatamente, como antes, a menos que você consiga novamente respostas corretas suficientes em sequência.",
+
+    "trl_barrier_00": "Uma barreira foi atingida! Quando um meteoro atinge uma barreira, o meteoro é destruído. A barreira sofre dano e a tela pisca em laranja. Se uma barreira sofrer dano demais, ela será destruída, deixando uma abertura para que os meteoros atinjam a superfície da Terra e a danifiquem. Quando você conseguir pontos suficientes, uma barreira é restaurada.",
+
+    "trl_surface_00": "A superfície da Terra sofreu dano! Quando a superfície sofre dano, a tela pisca em vermelho. Lembre-se: se a superfície sofrer dano demais, a fase é perdida.",
+
+    "trl_pzl_buttons": "Este é um quebra-cabeça de botões de unidades! Envie uma resposta selecionando o botão ao qual ela está ligada.",
+
+    "trl_pzl_swap": "Este é um quebra-cabeça de troca! Os símbolos na área do quebra-cabeça trocam de lugar quando a barra de tempo na área do quebra-cabeça se esgota totalmente. Selecione um resultado usando um dos símbolos correspondentes na área do quebra-cabeça.",
+
+    "trl_pzl_slide": "Este é um quebra-cabeça de deslizamento! Os símbolos deslizam pela área do quebra-cabeça enquanto um meteoro é alvo. Selecione um resultado usando um dos símbolos correspondentes na área do quebra-cabeça.",
+
+    "trl_pzl_path": "Este é um quebra-cabeça de caminho! Os símbolos se movem ao longo do caminho na área do quebra-cabeça enquanto um meteoro é alvo. Selecione um resultado usando o símbolo correspondente na área do quebra-cabeça.",
+
+    "trl_firstWin_00": "Você concluiu a primeira fase, o que desbloqueou ainda mais fases! Quanto mais fases você vencer, mais fases vai desbloquear. Entre as fases disponíveis, você pode concluí-las em qualquer ordem, mas precisa vencer todas as fases para terminar o jogo.",
+
+    "trl_mixStage_00": "Esta é uma fase mista. As fases mistas fazem você lidar com vários grupos de unidades ao mesmo tempo. Você só vai jogar uma fase mista depois de conhecer todos os grupos de unidades relevantes.",
+
+    "trl_lengthImperial_00": "Essas unidades são usadas para medir o comprimento de algo.",
+
+    "trl_weightImperial_00": "Estas unidades são usadas para medir o quão pesado algo é.",
+
+    "trl_time_00": "Estas unidades são usadas para medir intervalos de tempo.",
+
+    "trl_lengthMetric_00": "Essas unidades são usadas para medir o comprimento de algo.",
+
+    "trl_weightMetric_00": "Estas unidades são usadas para medir o quão pesado algo é.",
+
+    "trl_capacity_00": "Essas unidades são usadas para medir quanto líquido um recipiente pode conter.",
+
+
+    "kwd_gameComplete": "Jogo concluído!",
+
+    "kwd_results": "Resultados",
+
+    "kwd_gameTime": "Tempo de jogo",
+    "kwd_gameScore": "Pontuação do jogo",
+    "kwd_finish": "Finalizar"
+  },
+  "pt-PT": {
+    "_stop_": "",
+
+    "gameTitle": "Equipa de Ataque dos Meteoros",
+    "gameTitleShort": "MST",
+
+    "kwd_title": "Título",
+    "kwd_start": "Iniciar",
+    "kwd_newGame": "Novo jogo",
+    "kwd_continue": "Continuar",
+    "kwd_instructions": "Instruções",
+    "kwd_settings": "Definições",
+    "kwd_licenses": "Licenças",
+    "kwd_quit": "Sair",
+
+    "kwd_back": "Voltar",
+
+    "mnu_instructions_dsc": "Neste jogo, tens de destruir meteoros respondendo corretamente a perguntas de conversão de unidades. Para interagir com os elementos do jogo, usa o rato ou os controlos táteis. Escolhes fases na área do mundo e selecionas as saídas de conversão de unidades na área da fase.",
+
+    "kwd_volume": "Volume",
+    "kwd_bgmVolume": "Volume da música de fundo (BGM)",
+    "kwd_sfxVolume": "Volume dos efeitos sonoros (SFX)",
+    "kwd_ttsVolume": "Volume do texto para voz (TTS)",
+    "kwd_mute": "Silenciar",
+    "kwd_textToSpeech": "Texto para voz",
+    "kwd_tutorial": "Tutorial",
+    "kwd_tutorials": "Tutoriais",
+
+    "mnu_licenses_dsc": "Os recursos utilizados foram modificados para uso neste jogo.",
+    "kwd_bgms": "Músicas de fundo",
+    "kwd_sfxs": "Efeitos sonoros",
+    "kwd_fonts": "Tipos de letra",
+
+
+    "kwd_units": "Unidades",
+    "kwd_unitsInfo": "Informações sobre as unidades",
+
+
+    "kwd_save": "Guardar",
+    "sve_msg_savingGame": "A guardar...",
+
+
+    "unt_lengthImperial_nme": "Comprimento (Imperial)",
+    "unt_lengthImperial_dsc": "Polegadas (in), Pés (ft), Jardas (yd)",
+
+    "unt_weightImperial_nme": "Peso (Imperial)",
+    "unt_weightImperial_dsc": "Libras (lb), Onças (oz)",
+
+    "unt_time_nme": "Tempo",
+    "unt_time_dsc": "Segundos (secs), Minutos (mins), Horas (hrs)",
+
+    "unt_lengthMetric_nme": "Comprimento (Métrico)",
+    "unt_lengthMetric_dsc": "Milímetros (mm), Centímetros (cm), Decímetros (dm), Metros (m), Quilómetros (km)",
+
+    "unt_weightMetric_nme": "Peso (Métrico)",
+    "unt_weightMetric_dsc": "Miligramas (mg), Gramas (g), Quilogramas (kg)",
+
+    "unt_capacity_nme": "Capacidade (Métrico)",
+    "unt_capacity_dsc": "Litros (l), Mililitros (mL)",
+
+
+    "unt_inches_nme": "Polegadas",
+    "unt_inches_sbl": "in",
+    "unt_feet_nme": "Pés",
+    "unt_feet_sbl": "ft",
+    "unt_yards_nme": "Jardas",
+    "unt_yards_sbl": "jardas",
+
+    "unt_millimeters_nme": "Milímetros",
+    "unt_millimeters_sbl": "mm",
+    "unt_centimeters_nme": "Centímetros",
+    "unt_centimeters_sbl": "cm",
+    "unt_decimeters_nme": "Decímetros",
+    "unt_decimeters_sbl": "dm",
+    "unt_meters_nme": "Metros",
+    "unt_meters_sbl": "m",
+    "unt_kilometers_nme": "Quilómetros",
+    "unt_kilometers_sbl": "km",
+
+    "unt_pounds_nme": "Libras",
+    "unt_pounds_sbl": "lb",
+    "unt_ounces_nme": "Onças",
+    "unt_ounces_sbl": "oz",
+    "unt_milligrams_nme": "Miligramas",
+    "unt_milligrams_sbl": "mg",
+    "unt_grams_nme": "Gramas",
+    "unt_grams_sbl": "g",
+    "unt_kilograms_nme": "Quilogramas",
+    "unt_kilograms_sbl": "kg",
+
+    "unt_seconds_nme": "Segundos",
+    "unt_seconds_sbl": "secs",
+    "unt_minutes_nme": "Minutos",
+    "unt_minutes_sbl": "mins",
+    "unt_hours_nme": "Horas",
+    "unt_hours_sbl": "hrs",
+
+    "unt_milliliters_nme": "Mililitros",
+    "unt_milliliters_sbl": "mL",
+    "unt_liters_nme": "Litros",
+    "unt_liters_sbl": "l",
+
+
+    "kwd_input": "Entrada",
+    "kwd_output": "Saída",
+    "kwd_switch": "Trocar",
+
+
+    "kwd_one": "Um",
+    "kwd_two": "Dois",
+    "kwd_three": "Três",
+    "kwd_four": "Quatro",
+    "kwd_five": "Cinco",
+
+    "kwd_six": "Seis",
+    "kwd_seven": "Sete",
+    "kwd_eight": "Oito",
+    "kwd_nine": "Nove",
+    "kwd_zero": "Zero",
+
+    "kwd_decimalPoint": "Ponto decimal",
+    "kwd_multiply": "Multiplicar",
+    "kwd_divide": "Dividir",
+    "kwd_equals": "Igual",
+
+    "kwd_backspace": "Retrocesso",
+    "kwd_delete": "Apagar",
+    "kwd_clear": "Limpar",
+    "kwd_clear_sbl": "C",
+
+    "kwd_error": "Erro",
+
+
+    "kwd_world": "Mundo",
+    "kwd_stageSelect": "Selecionar fase",
+    "kwd_stage": "Fase",
+
+    "kwd_all": "Tudo",
+    "kwd_none": "Nenhum",
+
+    "stg_mix1_nme": "Mistura 1",
+    "stg_mix1_dsc": "Comprimento (Imperial), Peso (Imperial), Tempo",
+
+    "stg_mix2_nme": "Mistura 2",
+    "stg_mix2_dsc": "Comprimento (Métrico), Peso (Métrico), Capacidade (Métrica)",
+
+    "stg_mix3_nme": "Mistura 3",
+    "stg_mix3_dsc": "Tudo",
+
+
+    "kwd_time": "Tempo",
+    "kwd_score": "Pontuação",
+    "kwd_points": "Pontos",
+    "kwd_combo": "Combo",
+    "kwd_highestCombo": "Maior combo",
+    "kwd_restart": "Recomeçar",
+    "kwd_speed": "Velocidade",
+
+
+    "kwd_correct": "Correto!",
+    "kwd_incorrect": "Incorreto!",
+
+
+    "kwd_stageEnd": "Fim da fase",
+    "kwd_stageClear": "Fase concluída",
+    "kwd_stageWon": "Fase vencida",
+    "kwd_stageFailed": "Fase falhada",
+    "kwd_stageLost": "Fase perdida",
+
+
+    "chr_partnerA_nme": "Reteor",
+    "chr_partnerB_nme": "Astrite",
+
+
+    "trl_intro_00": "Bem-vindo à Equipa de Ataque aos Meteoros (MST)! Localizamos meteoros e destruimo-los antes de atingirem a superfície da Terra, o que fazemos convertendo unidades de medida maiores em unidades de medida menores. Esta é a área do mundo, onde selecionas fases, vês informações sobre unidades, alteras as definições do jogo e guardas o teu jogo. Eu sou o Reteor...",
+    "trl_intro_01": "E eu sou a Astrite! Quando selecionas uma fase, as unidades com que vais trabalhar são mostradas. Assim que esta informação é dada, ela é adicionada ao 'menu de informações sobre unidades', que pode ser visto usando o 'botão de informações sobre unidades'. Com tudo isto explicado, seleciona a fase disponível para começar a destruir meteoros!",
+
+    "trl_firstStage_00": "Bem-vindo à área da fase, onde vais abater meteoros. Quando um meteoro é alvo, é apresentada uma conversão para resolver. Se a conversão for bem-sucedida, ganhas pontos e, quando conseguires pontos suficientes, a fase é concluída. Mas se a superfície da Terra sofrer demasiados danos, a fase é perdida.",
+    "trl_firstStage_01": "Os meteoros são automaticamente alvo, mas também podes apontar manualmente para meteoros imóveis clicando-lhes ou tocando neles. Quando um meteoro é alvo, são-te apresentadas diferentes saídas de conversão e os multiplicadores usados para as obter. Depois de selecionares uma saída (o método varia consoante a fase), é disparado um laser contra o meteoro alvo.",
+    "trl_firstStage_02": "Se selecionaste a saída correta, o meteoro alvo é destruído, o ecrã pisca a verde e aparece o texto \"Correto!\" na parte inferior da janela da fase. Se selecionaste uma saída incorreta, o meteoro alvo aproxima-se da superfície da Terra, ficas atordoado por breves instantes, o ecrã pisca a azul e aparece o texto \"Incorreto!\" na parte inferior da janela da fase. Nota que, depois de um meteoro aparecer, ele só se move quando é atingido por um disparo de laser que não o destrói.",
+    "trl_firstStage_03": "À esquerda estão a barra de pontos, a barra de vida da superfície e a calculadora. À direita estão o botão das definições, o botão do mundo e a tabela de conversão de unidades. A 'tabela de conversão de unidades' mostra todas as conversões de unidades para o grupo de unidades atual. Se tiveres dificuldade em encontrar a saída correta, tenta usar a calculadora para resolver a equação. Dito isto, está na hora de começar a fase!",
+
+    "trl_hiddenMultiples_00": "Os multiplicadores tornaram-se ocultos! Se fizeres conversões corretas suficientes seguidas, os multiplicadores de conversão desaparecerão. Voltarão a ficar visíveis pouco tempo depois, mas esperar por isso faz com que a fase demore mais. Se errares uma conversão, os multiplicadores voltarão a aparecer logo como antes, a menos que voltes a acertar corretamente várias vezes seguidas.",
+
+    "trl_barrier_00": "Uma barreira foi atingida! Quando um meteoro atinge uma barreira, o meteoro é destruído. A barreira sofre danos e o ecrã pisca a laranja. Se uma barreira sofrer demasiados danos, será destruída, deixando uma abertura para os meteoros atingirem a superfície da Terra e a danificarem. Assim que conseguires pontos suficientes, uma barreira é restaurada.",
+
+    "trl_surface_00": "A superfície da Terra sofreu danos! Quando a superfície sofre danos, o ecrã pisca a vermelho. Lembra-te: se a superfície sofrer demasiados danos, a fase é perdida.",
+
+    "trl_pzl_buttons": "Este é um puzzle de botões das unidades! Submete uma saída selecionando o botão a que ela está ligada.",
+
+    "trl_pzl_swap": "Este é um puzzle de troca! Os símbolos na área do puzzle trocam de lugar quando a barra de tempo da área do puzzle se esgota completamente. Seleciona uma saída usando um dos símbolos correspondentes na área do puzzle.",
+
+    "trl_pzl_slide": "Este é um puzzle de deslizamento! Os símbolos deslizam pela área do puzzle enquanto um meteoro é alvo. Seleciona uma saída usando um dos símbolos correspondentes na área do puzzle.",
+
+    "trl_pzl_path": "Este é um puzzle de caminho! Os símbolos movem-se ao longo do caminho na área do puzzle enquanto um meteoro é alvo. Seleciona uma saída usando o símbolo correspondente na área do puzzle.",
+
+    "trl_firstWin_00": "Concluíste a primeira fase, o que desbloqueou ainda mais fases! Quanto mais fases completares, mais fases desbloquearás. Das fases disponíveis, podes concluí-las por qualquer ordem, mas tens de vencer todas as fases para terminar o jogo.",
+
+    "trl_mixStage_00": "Esta é uma fase mista. As fases mistas fazem-te lidar com vários grupos de unidades ao mesmo tempo. Só irás jogar uma fase mista depois de teres experimentado todos os grupos de unidades relevantes.",
+
+    "trl_lengthImperial_00": "Estas unidades são usadas para medir o comprimento de algo.",
+
+    "trl_weightImperial_00": "Estas unidades são usadas para medir o peso de algo.",
+
+    "trl_time_00": "Estas unidades são usadas para medir durações de tempo.",
+
+    "trl_lengthMetric_00": "Estas unidades são usadas para medir o comprimento de algo.",
+
+    "trl_weightMetric_00": "Estas unidades são usadas para medir o peso de algo.",
+
+    "trl_capacity_00": "Estas unidades são usadas para medir a quantidade de líquido que um recipiente pode conter.",
+
+
+    "kwd_gameComplete": "Jogo concluído!",
+
+    "kwd_results": "Resultados",
+
+    "kwd_gameTime": "Tempo de jogo",
+    "kwd_gameScore": "Pontuação do jogo",
+    "kwd_finish": "Terminar"
+  },
+  "ru": {
+    "_stop_": "",
+
+    "gameTitle": "Команда «Метеорный удар»",
+    "gameTitleShort": "MST",
+
+    "kwd_title": "Название",
+    "kwd_start": "Начать",
+    "kwd_newGame": "Новая игра",
+    "kwd_continue": "Продолжить",
+    "kwd_instructions": "Инструкция",
+    "kwd_settings": "Настройки",
+    "kwd_licenses": "Лицензии",
+    "kwd_quit": "Выйти",
+
+    "kwd_back": "Назад",
+
+    "mnu_instructions_dsc": "В этой игре тебе нужно уничтожать метеоры, правильно отвечая на вопросы о переводе единиц. Чтобы взаимодействовать с элементами игры, используй мышь или сенсорное управление. Ты выбираешь уровни в области мира и выбираешь варианты перевода единиц в области уровня.",
+
+    "kwd_volume": "Громкость",
+    "kwd_bgmVolume": "Громкость фоновой музыки (BGM)",
+    "kwd_sfxVolume": "Громкость звуковых эффектов (SFX)",
+    "kwd_ttsVolume": "Громкость текста-в-речь (TTS)",
+    "kwd_mute": "Без звука",
+    "kwd_textToSpeech": "Текст-в-речь",
+    "kwd_tutorial": "Обучение",
+    "kwd_tutorials": "Обучения",
+
+    "mnu_licenses_dsc": "Используемые ресурсы были изменены для этой игры.",
+    "kwd_bgms": "Музыка",
+    "kwd_sfxs": "Звуковые эффекты",
+    "kwd_fonts": "Шрифты",
+
+
+    "kwd_units": "Единицы",
+    "kwd_unitsInfo": "Информация об единицах",
+
+
+    "kwd_save": "Сохранить",
+    "sve_msg_savingGame": "Сохранение...",
+
+
+    "unt_lengthImperial_nme": "Длина (английская система)",
+    "unt_lengthImperial_dsc": "Дюймы (in), футы (ft), ярды (yd)",
+
+    "unt_weightImperial_nme": "Вес (английская система)",
+    "unt_weightImperial_dsc": "Фунты (lb), унции (oz)",
+
+    "unt_time_nme": "Время",
+    "unt_time_dsc": "Секунды (secs), минуты (mins), часы (hrs)",
+
+    "unt_lengthMetric_nme": "Длина (метрическая)",
+    "unt_lengthMetric_dsc": "Миллиметры (mm), сантиметры (cm), дециметры (dm), метры (m), километры (km)",
+
+    "unt_weightMetric_nme": "Вес (метрическая)",
+    "unt_weightMetric_dsc": "Миллиграммы (mg), граммы (g), килограммы (kg)",
+
+    "unt_capacity_nme": "Ёмкость (метрическая)",
+    "unt_capacity_dsc": "Литры (l), миллилитры (mL)",
+
+
+    "unt_inches_nme": "Дюймы",
+    "unt_inches_sbl": "in",
+    "unt_feet_nme": "Футы",
+    "unt_feet_sbl": "ft",
+    "unt_yards_nme": "Ярды",
+    "unt_yards_sbl": "ярд",
+
+    "unt_millimeters_nme": "Миллиметры",
+    "unt_millimeters_sbl": "mm",
+    "unt_centimeters_nme": "Сантиметры",
+    "unt_centimeters_sbl": "cm",
+    "unt_decimeters_nme": "Дециметры",
+    "unt_decimeters_sbl": "dm",
+    "unt_meters_nme": "Метры",
+    "unt_meters_sbl": "m",
+    "unt_kilometers_nme": "Километры",
+    "unt_kilometers_sbl": "km",
+
+    "unt_pounds_nme": "Фунты",
+    "unt_pounds_sbl": "lb",
+    "unt_ounces_nme": "Унции",
+    "unt_ounces_sbl": "oz",
+    "unt_milligrams_nme": "Миллиграммы",
+    "unt_milligrams_sbl": "mg",
+    "unt_grams_nme": "Граммы",
+    "unt_grams_sbl": "g",
+    "unt_kilograms_nme": "Килограммы",
+    "unt_kilograms_sbl": "kg",
+
+    "unt_seconds_nme": "Секунды",
+    "unt_seconds_sbl": "secs",
+    "unt_minutes_nme": "Минуты",
+    "unt_minutes_sbl": "mins",
+    "unt_hours_nme": "Часы",
+    "unt_hours_sbl": "hrs",
+
+    "unt_milliliters_nme": "Миллилитры",
+    "unt_milliliters_sbl": "mL",
+    "unt_liters_nme": "Литры",
+    "unt_liters_sbl": "l",
+
+
+    "kwd_input": "Ввод данных",
+    "kwd_output": "Выход",
+    "kwd_switch": "Переключить",
+
+
+    "kwd_one": "Один",
+    "kwd_two": "Два",
+    "kwd_three": "Три",
+    "kwd_four": "Четыре",
+    "kwd_five": "Пять",
+
+    "kwd_six": "Шесть",
+    "kwd_seven": "Семь",
+    "kwd_eight": "Восемь",
+    "kwd_nine": "Девять",
+    "kwd_zero": "Ноль",
+
+    "kwd_decimalPoint": "Десятичная точка",
+    "kwd_multiply": "Умножить на",
+    "kwd_divide": "Разделить",
+    "kwd_equals": "Равно",
+
+    "kwd_backspace": "Возврат",
+    "kwd_delete": "Удалить",
+    "kwd_clear": "Очистить",
+    "kwd_clear_sbl": "Оч",
+
+    "kwd_error": "Ошибка",
+
+
+    "kwd_world": "Мир",
+    "kwd_stageSelect": "Выбор уровня",
+    "kwd_stage": "Уровень",
+
+    "kwd_all": "Все",
+    "kwd_none": "Ничего",
+
+    "stg_mix1_nme": "Смешанный 1",
+    "stg_mix1_dsc": "Длина (английская система), вес (английская система), время",
+
+    "stg_mix2_nme": "Смешанный 2",
+    "stg_mix2_dsc": "Длина (метрическая), вес (метрическая), ёмкость (метрическая)",
+
+    "stg_mix3_nme": "Смешанный 3",
+    "stg_mix3_dsc": "Все",
+
+
+    "kwd_time": "Время",
+    "kwd_score": "Счёт",
+    "kwd_points": "Баллы",
+    "kwd_combo": "Комбинация",
+    "kwd_highestCombo": "Самое большое комбо",
+    "kwd_restart": "Перезапустить",
+    "kwd_speed": "Скорость",
+
+
+    "kwd_correct": "Верно!",
+    "kwd_incorrect": "Неверно!",
+
+
+    "kwd_stageEnd": "Конец уровня",
+    "kwd_stageClear": "Уровень пройден",
+    "kwd_stageWon": "Уровень выигран",
+    "kwd_stageFailed": "Уровень не пройден",
+    "kwd_stageLost": "Уровень проигран",
+
+
+    "chr_partnerA_nme": "Ретеор",
+    "chr_partnerB_nme": "Астрит",
+
+
+    "trl_intro_00": "Добро пожаловать в Команду «Метеорный удар» (MST)! Мы разыскиваем метеоры и уничтожаем их до того, как они попадут на поверхность Земли, а для этого переводим большие единицы измерения в меньшие. Это область мира, где ты выбираешь уровни, смотришь информацию об единицах, меняешь настройки игры и сохраняешь игру. Я — Ретор...",
+    "trl_intro_01": "А я — Астрит! Когда ты выбираешь уровень, будут показаны единицы, с которыми ты будешь работать. После того как эта информация будет дана, она добавляется в «меню информации об единицах», которое можно открыть с помощью «кнопки информации об единицах». Всё это объяснено, так что пожалуйста, выбери доступный уровень, чтобы начать уничтожать метеоры!",
+
+    "trl_firstStage_00": "Добро пожаловать в область уровня, где ты будешь сбивать метеоры. Когда метеор выбран, тебе предлагается решить перевод единиц. Если перевод выполнен успешно, ты получаешь очки, и как только ты наберёшь достаточно очков, уровень будет пройден. Но если поверхность Земли получит слишком много урона, уровень будет проигран.",
+    "trl_firstStage_01": "Метеоры выбираются автоматически, но ты также можешь вручную выбирать неподвижные метеоры, нажимая на них. Когда метеор выбран, тебе показываются разные варианты перевода и множители, которые были использованы для их получения. Как только ты выберешь вариант (способ выбора зависит от уровня), в выбранный метеор будет выпущен лазерный выстрел.",
+    "trl_firstStage_02": "Если ты выбрал правильный вариант, выбранный метеор уничтожается, экран вспыхивает зелёным, и текст «Верно!» появляется внизу окна уровня. Если ты выбрал неверный вариант, выбранный метеор приближается к поверхности Земли, ты ненадолго оглушён, экран вспыхивает синим, и текст «Неверно!» появляется внизу окна уровня. Обрати внимание: после появления метеор движется только тогда, когда по нему попадает лазерный выстрел, который не уничтожает его.",
+    "trl_firstStage_03": "Слева находятся шкала очков, шкала здоровья поверхности и калькулятор. Справа находятся кнопка настроек, кнопка мира и таблица перевода единиц. «Таблица перевода единиц» показывает все переводы единиц для текущей группы единиц. Если тебе трудно найти правильный ответ, попробуй использовать калькулятор, чтобы решить уравнение. А теперь пора начинать уровень!",
+
+    "trl_hiddenMultiples_00": "Множители стали скрыты! Если ты сделаешь достаточно правильных переводов подряд, множители исчезнут. Через некоторое время они снова станут видимыми, но ожидание только удлинит уровень. Если ты ошибёшься в переводе, множители снова начнут появляться сразу, как раньше, если только ты снова не дашь достаточно правильных ответов подряд.",
+
+    "trl_barrier_00": "Барьер был поражён! Когда метеор попадает в барьер, метеор уничтожается. Барьер получает урон, а экран вспыхивает оранжевым. Если барьер получит слишком много урона, он будет уничтожен, и появится отверстие, через которое метеоры смогут ударить по поверхности Земли и повредить её. Как только ты наберёшь достаточно очков, барьер восстановится.",
+
+    "trl_surface_00": "Поверхность Земли получила урон! Когда поверхность получает урон, экран вспыхивает красным. Помни: если поверхность получит слишком много урона, уровень будет проигран.",
+
+    "trl_pzl_buttons": "Это головоломка с кнопками единиц! Отправь ответ, выбрав кнопку, к которой он прикреплён.",
+
+    "trl_pzl_swap": "Это головоломка с обменом! Символы в области головоломки меняются местами, когда шкала времени в области головоломки полностью опустошается. Выбери ответ с помощью одного из соответствующих символов в области головоломки.",
+
+    "trl_pzl_slide": "Это головоломка со сдвигом! Символы скользят по области головоломки, пока выбран метеор. Выбери ответ с помощью одного из соответствующих символов в области головоломки.",
+
+    "trl_pzl_path": "Это головоломка с путём! Символы движутся по пути в области головоломки, пока выбран метеор. Выбери ответ с помощью соответствующего символа в области головоломки.",
+
+    "trl_firstWin_00": "Ты прошёл первый уровень, и теперь открылись ещё новые уровни! Чем больше уровней ты проходишь, тем больше уровней разблокируешь. Из доступных уровней ты можешь проходить их в любом порядке, но чтобы завершить игру, нужно пройти все уровни.",
+
+    "trl_mixStage_00": "Это смешанный уровень. На смешанных уровнях тебе приходится работать сразу с несколькими группами единиц. Ты будешь проходить смешанный уровень только после того, как познакомишься со всеми соответствующими группами единиц.",
+
+    "trl_lengthImperial_00": "Эти единицы используются для измерения того, насколько что-то длинное.",
+
+    "trl_weightImperial_00": "Эти единицы используются для измерения того, насколько что-то тяжёлое.",
+
+    "trl_time_00": "Эти единицы используются для измерения промежутков времени.",
+
+    "trl_lengthMetric_00": "Эти единицы используются для измерения того, насколько что-то длинное.",
+
+    "trl_weightMetric_00": "Эти единицы используются для измерения того, насколько что-то тяжёлое.",
+
+    "trl_capacity_00": "Эти единицы используются для измерения того, сколько жидкости может вместить ёмкость.",
+
+
+    "kwd_gameComplete": "Игра пройдена!",
+
+    "kwd_results": "Результат",
+
+    "kwd_gameTime": "Время игры",
+    "kwd_gameScore": "Счёт игры",
+    "kwd_finish": "Завершить"
+  },
+  "tr": {
+    "_stop_": "",
+
+    "gameTitle": "Meteor Çarpma Ekibi",
+    "gameTitleShort": "MST",
+
+    "kwd_title": "Başlık",
+    "kwd_start": "Başlat",
+    "kwd_newGame": "Yeni Oyun",
+    "kwd_continue": "Devam Et",
+    "kwd_instructions": "Talimatlar",
+    "kwd_settings": "Ayarlar",
+    "kwd_licenses": "Lisanslar",
+    "kwd_quit": "Çık",
+
+    "kwd_back": "Geri",
+
+    "mnu_instructions_dsc": "Bu oyunda, birim dönüşümü sorularını doğru cevaplayarak meteorları yok edersin. Oyun öğeleriyle etkileşime geçmek için fareyi ya da dokunmatik kontrolleri kullanabilirsin. Dünyadaki alanda bölümleri seçer ve bölüm alanında birim dönüşümü sonuçlarını seçersin.",
+
+    "kwd_volume": "Ses",
+    "kwd_bgmVolume": "Arka Plan Müziği (BGM) Sesi",
+    "kwd_sfxVolume": "Ses Efekti (SFX) Sesi",
+    "kwd_ttsVolume": "Metinden Konuşmaya (TTS) Sesi",
+    "kwd_mute": "Sessiz",
+    "kwd_textToSpeech": "Metinden Konuşmaya",
+    "kwd_tutorial": "Öğretici",
+    "kwd_tutorials": "Öğreticiler",
+
+    "mnu_licenses_dsc": "Kullanılan kaynak varlıklar bu oyun için değiştirilmiştir.",
+    "kwd_bgms": "Arka Plan Müzikleri",
+    "kwd_sfxs": "Ses Efektleri",
+    "kwd_fonts": "Yazı Tipleri",
+
+
+    "kwd_units": "Birimler",
+    "kwd_unitsInfo": "Birim Bilgisi",
+
+
+    "kwd_save": "Kaydet",
+    "sve_msg_savingGame": "Kaydediliyor...",
+
+
+    "unt_lengthImperial_nme": "Uzunluk (İngiliz ölçü birimleri)",
+    "unt_lengthImperial_dsc": "İnç (in), Feet (ft), Yard (yd)",
+
+    "unt_weightImperial_nme": "Ağırlık (İngiliz ölçü birimleri)",
+    "unt_weightImperial_dsc": "Pound (lb), Ons (oz)",
+
+    "unt_time_nme": "Zaman",
+    "unt_time_dsc": "Saniyeler (secs), Dakikalar (mins), Saatler (hrs)",
+
+    "unt_lengthMetric_nme": "Uzunluk (Metrik)",
+    "unt_lengthMetric_dsc": "Milimetre (mm), Santimetre (cm), Desimetre (dm), Metre (m), Kilometre (km)",
+
+    "unt_weightMetric_nme": "Ağırlık (Metrik)",
+    "unt_weightMetric_dsc": "Miligram (mg), Gram (g) Kilogram (kg)",
+
+    "unt_capacity_nme": "Kapasite (Metrik)",
+    "unt_capacity_dsc": "Litreler (l), Mililitreler (mL)",
+
+
+    "unt_inches_nme": "İnç",
+    "unt_inches_sbl": "in",
+    "unt_feet_nme": "Ayak",
+    "unt_feet_sbl": "ft",
+    "unt_yards_nme": "Yarda",
+    "unt_yards_sbl": "yd",
+
+    "unt_millimeters_nme": "Milimetre",
+    "unt_millimeters_sbl": "mm",
+    "unt_centimeters_nme": "Santimetre",
+    "unt_centimeters_sbl": "cm",
+    "unt_decimeters_nme": "Desimetre",
+    "unt_decimeters_sbl": "dm",
+    "unt_meters_nme": "Metre",
+    "unt_meters_sbl": "m",
+    "unt_kilometers_nme": "Kilometre",
+    "unt_kilometers_sbl": "km",
+
+    "unt_pounds_nme": "Pound",
+    "unt_pounds_sbl": "lb",
+    "unt_ounces_nme": "Ons",
+    "unt_ounces_sbl": "oz",
+    "unt_milligrams_nme": "Miligram",
+    "unt_milligrams_sbl": "mg",
+    "unt_grams_nme": "Gram",
+    "unt_grams_sbl": "g",
+    "unt_kilograms_nme": "Kilogram",
+    "unt_kilograms_sbl": "kg",
+
+    "unt_seconds_nme": "Saniye",
+    "unt_seconds_sbl": "secs",
+    "unt_minutes_nme": "Dakika",
+    "unt_minutes_sbl": "mins",
+    "unt_hours_nme": "Saat",
+    "unt_hours_sbl": "hrs",
+
+    "unt_milliliters_nme": "Mililitre",
+    "unt_milliliters_sbl": "mL",
+    "unt_liters_nme": "Litreler",
+    "unt_liters_sbl": "l",
+
+
+    "kwd_input": "Girdi",
+    "kwd_output": "Çıktı",
+    "kwd_switch": "Değiştir",
+
+
+    "kwd_one": "Bir",
+    "kwd_two": "İki",
+    "kwd_three": "Üç",
+    "kwd_four": "Dört",
+    "kwd_five": "Beş",
+
+    "kwd_six": "Altı",
+    "kwd_seven": "Yedi",
+    "kwd_eight": "Sekiz",
+    "kwd_nine": "Dokuz",
+    "kwd_zero": "Sıfır",
+
+    "kwd_decimalPoint": "Ondalık Nokta",
+    "kwd_multiply": "Çarp",
+    "kwd_divide": "Böl",
+    "kwd_equals": "Eşittir",
+
+    "kwd_backspace": "Geri Sil",
+    "kwd_delete": "Sil",
+    "kwd_clear": "Temizle",
+    "kwd_clear_sbl": "C",
+
+    "kwd_error": "Hata",
+
+
+    "kwd_world": "Dünya",
+    "kwd_stageSelect": "Bölüm Seçimi",
+    "kwd_stage": "Bölüm",
+
+    "kwd_all": "Hepsi",
+    "kwd_none": "Yok",
+
+    "stg_mix1_nme": "Karışım 1",
+    "stg_mix1_dsc": "Uzunluk (İngiliz), Ağırlık (İngiliz), Zaman",
+
+    "stg_mix2_nme": "Karışım 2",
+    "stg_mix2_dsc": "Uzunluk (Metrik), Ağırlık (Metrik), Kapasite (Metrik)",
+
+    "stg_mix3_nme": "Karışım 3",
+    "stg_mix3_dsc": "Hepsi",
+
+
+    "kwd_time": "Zaman",
+    "kwd_score": "Skor",
+    "kwd_points": "Puan",
+    "kwd_combo": "Kombo",
+    "kwd_highestCombo": "En Yüksek Kombo",
+    "kwd_restart": "Yeniden Başlat",
+    "kwd_speed": "Hız",
+
+
+    "kwd_correct": "Doğru!",
+    "kwd_incorrect": "Yanlış!",
+
+
+    "kwd_stageEnd": "Bölüm Sonu",
+    "kwd_stageClear": "Bölüm Tamamlandı",
+    "kwd_stageWon": "Bölüm Kazanıldı",
+    "kwd_stageFailed": "Bölüm Başarısız",
+    "kwd_stageLost": "Bölüm Kaybedildi",
+
+
+    "chr_partnerA_nme": "Reteor",
+    "chr_partnerB_nme": "Astrite",
+
+
+    "trl_intro_00": "Meteor Çarpma Ekibi'ne (MST) hoş geldin! Daha büyük ölçü birimlerini daha küçük ölçü birimlerine dönüştürerek meteorları takip ediyor ve Dünya yüzeyine çarpmadan önce onları yok ediyoruz. Burası dünya alanı; burada bölümleri seçer, birim bilgilerini görüntüler, oyun ayarlarını değiştirir ve oyunu kaydedersin. Ben Reteor...",
+    "trl_intro_01": "Ve ben Astrite! Bir bölüm seçtiğinde, üzerinde çalışacağın birimler gösterilir. Bu bilgiler verildikten sonra, 'birim bilgi menüsü'ne eklenir ve 'birim bilgi düğmesi' ile görüntülenebilir. Her şey açıklığa kavuştuğuna göre, meteorları yok etmeye başlamak için lütfen mevcut bölümü seç!",
+
+    "trl_firstStage_00": "Bölüm alanına hoş geldin; burada meteorları vuracaksın. Bir meteor hedeflendiğinde, çözmen için bir dönüşüm sorusu gösterilir. Dönüşüm başarılı olursa puan kazanırsın ve yeterince puan kazandığında bölüm tamamlanır. Ama Dünya yüzeyi çok fazla hasar alırsa bölüm kaybedilir.",
+    "trl_firstStage_01": "Meteorlar otomatik olarak hedeflenir, ama hareket etmeyen meteorları tıklayarak/dokunarak da manuel olarak hedefleyebilirsin. Bir meteor hedeflendiğinde, sana farklı dönüşüm sonuçları ve bunları elde etmek için kullanılan çarpanlar gösterilir. Bir sonuç seçtiğinde (bunu yapma yöntemi bölüme göre değişir), hedeflenen meteora bir lazer atışı yapılır.",
+    "trl_firstStage_02": "Doğru sonucu seçersen hedeflenen meteor yok edilir, ekran yeşil yanıp söner ve bölüm penceresinin altında \"Doğru!\" yazısı görünür. Yanlış bir sonuç seçersen hedeflenen meteor Dünya yüzeyine yaklaşır, kısa süreliğine sersemlersin, ekran mavi yanıp söner ve bölüm penceresinin altında \"Yanlış!\" yazısı görünür. Dikkat: Bir meteor göründükten sonra, yalnızca onu yok etmeyen bir lazer atışı isabet ederse hareket eder.",
+    "trl_firstStage_03": "Solda puan çubuğu, yüzeyin sağlık çubuğu ve hesap makinesi var. Sağda ayarlar düğmesi, dünya düğmesi ve birim dönüşüm tablosu var. 'Birim dönüşüm tablosu', geçerli birim grubundaki tüm birim dönüşümlerini gösterir. Doğru sonucu bulmakta zorlanırsan denklemi çözmek için hesap makinesini kullanmayı dene. Bütün bunlardan sonra, bölümü başlatma zamanı!",
+
+    "trl_hiddenMultiples_00": "Çarpanlar gizlendi! Üst üste yeterince dönüşümü doğru yaparsan dönüşüm çarpanları kaybolur. Kısa bir süre sonra yeniden görünürler, ama bunu beklemek bölümün daha uzun sürmesine neden olur. Bir dönüşümü yanlış yaparsan, yeterince art arda doğru cevap verene kadar çarpanlar önceki gibi hemen görünmeye başlar.",
+
+    "trl_barrier_00": "Bir bariyer vuruldu! Bir meteor bir bariyere çarptığında meteor yok edilir. Bariyer hasar alır ve ekran turuncu yanıp söner. Bir bariyer çok fazla hasar alırsa yok edilir ve meteorların Dünya yüzeyine çarpıp zarar vermesine izin veren bir açıklık bırakır. Yeterince puan kazandığında bir bariyer onarılır.",
+
+    "trl_surface_00": "Dünya yüzeyi hasar aldı! Yüzey hasar aldığında ekran kırmızı yanıp söner. Unutma: Yüzey çok fazla hasar alırsa bölüm kaybedilir.",
+
+    "trl_pzl_buttons": "Bu bir birim düğmeleri bulmacası! Sonucu, bağlı olduğu düğmeyi seçerek gönder.",
+
+    "trl_pzl_swap": "Bu bir değiş tokuş bulmacası! Bulmaca alanındaki zaman çubuğu tamamen bittiğinde, bulmaca alanındaki semboller yer değiştirir. Sonucu, bulmaca alanındaki karşılık gelen sembollerden birini kullanarak seç.",
+
+    "trl_pzl_slide": "Bu bir kaydırma bulmacası! Bir meteor hedeflenirken semboller bulmaca alanında kayar. Sonucu, bulmaca alanındaki karşılık gelen sembollerden birini kullanarak seç.",
+
+    "trl_pzl_path": "Bu bir yol bulmacası! Bir meteor hedeflenirken semboller bulmaca alanındaki yol boyunca hareket eder. Sonucu, bulmaca alanındaki karşılık gelen sembolü kullanarak seç.",
+
+    "trl_firstWin_00": "İlk bölümü tamamladın ve daha da fazla bölümü açtın! Ne kadar çok bölümü geçersen, o kadar çok bölüm açarsın. Mevcut bölümleri istediğin sırayla tamamlayabilirsin, ama oyunu bitirmek için tüm bölümleri geçmelisin.",
+
+    "trl_mixStage_00": "Bu bir karışım bölümü. Karışım bölümlerinde aynı anda birden fazla birim grubuyla uğraşırsın. Karışım bölümüne ancak ilgili tüm birim gruplarını deneyimledikten sonra gelirsin.",
+
+    "trl_lengthImperial_00": "Bu birimler, bir şeyin ne kadar uzun olduğunu ölçmek için kullanılır.",
+
+    "trl_weightImperial_00": "Bu birimler, bir şeyin ne kadar ağır olduğunu ölçmek için kullanılır.",
+
+    "trl_time_00": "Bu birimler, zaman uzunluklarını ölçmek için kullanılır.",
+
+    "trl_lengthMetric_00": "Bu birimler, bir şeyin ne kadar uzun olduğunu ölçmek için kullanılır.",
+
+    "trl_weightMetric_00": "Bu birimler, bir şeyin ne kadar ağır olduğunu ölçmek için kullanılır.",
+
+    "trl_capacity_00": "Bu birimler, bir kabın ne kadar sıvı alabileceğini ölçmek için kullanılır.",
+
+
+    "kwd_gameComplete": "Oyun Tamamlandı!",
+
+    "kwd_results": "Sonuçlar",
+
+    "kwd_gameTime": "Oyun Süresi",
+    "kwd_gameScore": "Oyun Puanı",
+    "kwd_finish": "Bitir"
+  },
+  "uk": {
+    "_stop_": "",
+
+    "gameTitle": "Команда «Метеорний удар»",
+    "gameTitleShort": "MST",
+
+    "kwd_title": "Назва",
+    "kwd_start": "Почати",
+    "kwd_newGame": "Нова гра",
+    "kwd_continue": "Продовжити",
+    "kwd_instructions": "Інструкції",
+    "kwd_settings": "Налаштування",
+    "kwd_licenses": "Ліцензії",
+    "kwd_quit": "Вийти",
+
+    "kwd_back": "Назад",
+
+    "mnu_instructions_dsc": "У цій грі тобі потрібно знищувати метеори, правильно відповідаючи на запитання про перетворення одиниць. Щоб взаємодіяти з елементами гри, використовуй мишу або сенсорне керування. Ти обираєш рівні в області світу й вибираєш варіанти перетворення одиниць в області рівня.",
+
+    "kwd_volume": "Гучність",
+    "kwd_bgmVolume": "Гучність фонової музики (BGM)",
+    "kwd_sfxVolume": "Гучність звукових ефектів (SFX)",
+    "kwd_ttsVolume": "Гучність тексту-у-мову (TTS)",
+    "kwd_mute": "Без звуку",
+    "kwd_textToSpeech": "Текст-у-мову",
+    "kwd_tutorial": "Навчання",
+    "kwd_tutorials": "Навчання",
+
+    "mnu_licenses_dsc": "Використані ресурси були змінені для цієї гри.",
+    "kwd_bgms": "BGM",
+    "kwd_sfxs": "SFX",
+    "kwd_fonts": "Шрифти",
+
+
+    "kwd_units": "Одиниці",
+    "kwd_unitsInfo": "Інформація про одиниці",
+
+
+    "kwd_save": "Зберегти",
+    "sve_msg_savingGame": "Збереження...",
+
+
+    "unt_lengthImperial_nme": "Довжина (імперська система)",
+    "unt_lengthImperial_dsc": "Дюйми (in), фути (ft), ярди (yd)",
+
+    "unt_weightImperial_nme": "Вага (імперська система)",
+    "unt_weightImperial_dsc": "Фунти (lb), унції (oz)",
+
+    "unt_time_nme": "Час",
+    "unt_time_dsc": "Секунди (secs), хвилини (mins), години (hrs)",
+
+    "unt_lengthMetric_nme": "Довжина (метрична)",
+    "unt_lengthMetric_dsc": "Міліметри (mm), сантиметри (cm), дециметри (dm), метри (m), кілометри (km)",
+
+    "unt_weightMetric_nme": "Вага (метрична)",
+    "unt_weightMetric_dsc": "Міліграми (mg), грами (g) кілограми (kg)",
+
+    "unt_capacity_nme": "Місткість (метрична)",
+    "unt_capacity_dsc": "Літри (l), мілілітри (mL)",
+
+
+    "unt_inches_nme": "Дюйми",
+    "unt_inches_sbl": "in",
+    "unt_feet_nme": "Фути",
+    "unt_feet_sbl": "ft",
+    "unt_yards_nme": "Ярди",
+    "unt_yards_sbl": "ярд",
+
+    "unt_millimeters_nme": "Міліметри",
+    "unt_millimeters_sbl": "mm",
+    "unt_centimeters_nme": "Сантиметри",
+    "unt_centimeters_sbl": "cm",
+    "unt_decimeters_nme": "Дециметри",
+    "unt_decimeters_sbl": "dm",
+    "unt_meters_nme": "Метри",
+    "unt_meters_sbl": "m",
+    "unt_kilometers_nme": "Кілометри",
+    "unt_kilometers_sbl": "km",
+
+    "unt_pounds_nme": "Фунти",
+    "unt_pounds_sbl": "lb",
+    "unt_ounces_nme": "Унції",
+    "unt_ounces_sbl": "oz",
+    "unt_milligrams_nme": "Міліграми",
+    "unt_milligrams_sbl": "mg",
+    "unt_grams_nme": "Грами",
+    "unt_grams_sbl": "g",
+    "unt_kilograms_nme": "Кілограми",
+    "unt_kilograms_sbl": "kg",
+
+    "unt_seconds_nme": "Секунди",
+    "unt_seconds_sbl": "secs",
+    "unt_minutes_nme": "Хвилини",
+    "unt_minutes_sbl": "mins",
+    "unt_hours_nme": "Години",
+    "unt_hours_sbl": "hrs",
+
+    "unt_milliliters_nme": "Мілілітри",
+    "unt_milliliters_sbl": "mL",
+    "unt_liters_nme": "Літри",
+    "unt_liters_sbl": "l",
+
+
+    "kwd_input": "Ввід",
+    "kwd_output": "Вивід",
+    "kwd_switch": "Перемкнути",
+
+
+    "kwd_one": "Один",
+    "kwd_two": "Два",
+    "kwd_three": "Три",
+    "kwd_four": "Чотири",
+    "kwd_five": "П'ять",
+
+    "kwd_six": "Шість",
+    "kwd_seven": "Сім",
+    "kwd_eight": "Вісім",
+    "kwd_nine": "Дев'ять",
+    "kwd_zero": "Нуль",
+
+    "kwd_decimalPoint": "Десяткова крапка",
+    "kwd_multiply": "Множити",
+    "kwd_divide": "Ділити",
+    "kwd_equals": "Дорівнює",
+
+    "kwd_backspace": "Клавіша Backspace",
+    "kwd_delete": "Видалити",
+    "kwd_clear": "Очистити",
+    "kwd_clear_sbl": "С",
+
+    "kwd_error": "Помилка",
+
+
+    "kwd_world": "Світ",
+    "kwd_stageSelect": "Вибір етапу",
+    "kwd_stage": "Етап",
+
+    "kwd_all": "Усе",
+    "kwd_none": "Немає",
+
+    "stg_mix1_nme": "Змішаний 1",
+    "stg_mix1_dsc": "Довжина (англійська система), вага (англійська система), час",
+
+    "stg_mix2_nme": "Змішаний 2",
+    "stg_mix2_dsc": "Довжина (метрична), вага (метрична), місткість (метрична)",
+
+    "stg_mix3_nme": "Змішаний 3",
+    "stg_mix3_dsc": "Усе",
+
+
+    "kwd_time": "Час",
+    "kwd_score": "Рахунок",
+    "kwd_points": "Очки",
+    "kwd_combo": "Комбо",
+    "kwd_highestCombo": "Найкраще комбо",
+    "kwd_restart": "Перезапустити",
+    "kwd_speed": "Швидкість",
+
+
+    "kwd_correct": "Правильно!",
+    "kwd_incorrect": "Неправильно!",
+
+
+    "kwd_stageEnd": "Кінець етапу",
+    "kwd_stageClear": "Етап пройдено",
+    "kwd_stageWon": "Етап виграно",
+    "kwd_stageFailed": "Етап не пройдено",
+    "kwd_stageLost": "Етап програно",
+
+
+    "chr_partnerA_nme": "Ретор",
+    "chr_partnerB_nme": "Астріт",
+
+
+    "trl_intro_00": "Ласкаво просимо до Команди «Метеорний удар» (MST)! Ми вистежуємо метеори й знищуємо їх до того, як вони влучать у поверхню Землі, а для цього перетворюємо більші одиниці вимірювання на менші. Це область світу, де ти обираєш рівні, переглядаєш інформацію про одиниці, змінюєш налаштування гри та зберігаєш гру. Я — Ретор...",
+    "trl_intro_01": "А я — Астріт! Коли ти обираєш рівень, будуть показані одиниці, з якими ти працюватимеш. Після того як цю інформацію буде надано, вона додається до «меню інформації про одиниці», яке можна переглянути за допомогою «кнопки інформації про одиниці». Усе це пояснено, тож, будь ласка, обери доступний рівень, щоб почати знищувати метеори!",
+
+    "trl_firstStage_00": "Ласкаво просимо до області рівня, де ти збиватимеш метеори. Коли метеор обрано, тобі пропонується розв'язати перетворення одиниць. Якщо перетворення виконано успішно, ти отримуєш очки, і щойно ти набереш достатньо очок, рівень буде пройдено. Але якщо поверхня Землі отримає занадто багато шкоди, рівень буде програно.",
+    "trl_firstStage_01": "Метеори вибираються автоматично, але ти також можеш вручну вибирати нерухомі метеори, натискаючи на них. Коли метеор обрано, тобі показують різні варіанти перетворення та множники, які були використані для їх отримання. Щойно ти вибереш варіант (спосіб вибору залежить від рівня), у вибраний метеор буде випущено лазерний постріл.",
+    "trl_firstStage_02": "Якщо ти вибрав правильний варіант, обраний метеор знищується, екран спалахує зеленим, і текст «Правильно!» з'являється внизу вікна рівня. Якщо ти вибрав неправильний варіант, обраний метеор наближається до поверхні Землі, ти ненадовго приголомшений, екран спалахує синім, і текст «Неправильно!» з'являється внизу вікна рівня. Зверни увагу: після появи метеор рухається лише тоді, коли по ньому влучає лазерний постріл, який не знищує його.",
+    "trl_firstStage_03": "Ліворуч розташовані шкала очок, шкала здоров'я поверхні та калькулятор. Праворуч — кнопка налаштувань, кнопка світу та таблиця перетворення одиниць. «Таблиця перетворення одиниць» показує всі перетворення одиниць для поточної групи одиниць. Якщо тобі важко знайти правильну відповідь, спробуй використати калькулятор, щоб розв'язати рівняння. А тепер час починати рівень!",
+
+    "trl_hiddenMultiples_00": "Множники стали прихованими! Якщо ти зробиш достатньо правильних перетворень підряд, множники зникнуть. За деякий час вони знову стануть видимими, але очікування лише подовжить рівень. Якщо ти помилишся в перетворенні, множники знову почнуть з'являтися одразу, як і раніше, якщо тільки ти знову не даси достатньо правильних відповідей підряд.",
+
+    "trl_barrier_00": "Бар'єр було вражено! Коли метеор влучає в бар'єр, метеор знищується. Бар'єр отримує шкоду, а екран спалахує помаранчевим. Якщо бар'єр отримає занадто багато шкоди, він буде знищений, і з'явиться отвір, через який метеори зможуть влучити в поверхню Землі та пошкодити її. Щойно ти набереш достатньо очок, бар'єр відновиться.",
+
+    "trl_surface_00": "Поверхня Землі отримала шкоду! Коли поверхня отримує шкоду, екран спалахує червоним. Пам'ятай: якщо поверхня отримає занадто багато шкоди, рівень буде програно.",
+
+    "trl_pzl_buttons": "Це головоломка з кнопками одиниць! Надішли відповідь, вибравши кнопку, до якої вона прикріплена.",
+
+    "trl_pzl_swap": "Це головоломка з обміном! Символи в області головоломки міняються місцями, коли шкала часу в області головоломки повністю спорожнюється. Вибери відповідь за допомогою одного з відповідних символів у області головоломки.",
+
+    "trl_pzl_slide": "Це головоломка зі зсувом! Символи ковзають по області головоломки, поки обрано метеор. Вибери відповідь за допомогою одного з відповідних символів у області головоломки.",
+
+    "trl_pzl_path": "Це головоломка зі шляхом! Символи рухаються по шляху в області головоломки, поки обрано метеор. Вибери відповідь за допомогою відповідного символу в області головоломки.",
+
+    "trl_firstWin_00": "Ти пройшов перший рівень, і тепер відкрилися ще нові рівні! Чим більше рівнів ти проходиш, тим більше рівнів розблоковуєш. Із доступних рівнів ти можеш проходити їх у будь-якому порядку, але щоб завершити гру, потрібно пройти всі рівні.",
+
+    "trl_mixStage_00": "Це змішаний рівень. На змішаних рівнях тобі доводиться працювати одразу з кількома групами одиниць. Ти будеш проходити змішаний рівень лише після того, як ознайомишся з усіма відповідними групами одиниць.",
+
+    "trl_lengthImperial_00": "Ці одиниці використовуються для вимірювання того, наскільки щось довге.",
+
+    "trl_weightImperial_00": "Ці одиниці використовуються для вимірювання того, наскільки щось важке.",
+
+    "trl_time_00": "Ці одиниці використовуються для вимірювання проміжків часу.",
+
+    "trl_lengthMetric_00": "Ці одиниці використовуються для вимірювання того, наскільки щось довге.",
+
+    "trl_weightMetric_00": "Ці одиниці використовуються для вимірювання того, наскільки щось важке.",
+
+    "trl_capacity_00": "Ці одиниці використовуються для вимірювання того, скільки рідини може вмістити ємність.",
+
+
+    "kwd_gameComplete": "Гру завершено!",
+
+    "kwd_results": "Результати",
+
+    "kwd_gameTime": "Час гри",
+    "kwd_gameScore": "Рахунок гри",
+    "kwd_finish": "Завершити"
+  },
+  "vi": {
+    "_stop_": "",
+
+    "gameTitle": "Đội Tấn Công Thiên Thạch",
+    "gameTitleShort": "MST",
+
+    "kwd_title": "Tiêu đề",
+    "kwd_start": "Bắt đầu",
+    "kwd_newGame": "Trò chơi mới",
+    "kwd_continue": "Tiếp tục",
+    "kwd_instructions": "Hướng dẫn",
+    "kwd_settings": "Cài đặt",
+    "kwd_licenses": "Giấy phép",
+    "kwd_quit": "Thoát",
+
+    "kwd_back": "Quay lại",
+
+    "mnu_instructions_dsc": "Trong trò chơi này, bạn phá hủy thiên thạch bằng cách trả lời đúng các câu hỏi đổi đơn vị. Để tương tác với các phần của trò chơi, hãy dùng chuột hoặc chạm. Bạn chọn các màn ở khu vực thế giới và chọn kết quả đổi đơn vị ở khu vực màn chơi.",
+
+    "kwd_volume": "Âm lượng",
+    "kwd_bgmVolume": "Âm lượng nhạc nền (BGM)",
+    "kwd_sfxVolume": "Âm lượng hiệu ứng âm thanh (SFX)",
+    "kwd_ttsVolume": "Âm lượng chuyển văn bản thành giọng nói (TTS)",
+    "kwd_mute": "Tắt tiếng",
+    "kwd_textToSpeech": "Chuyển văn bản thành giọng nói",
+    "kwd_tutorial": "Hướng dẫn",
+    "kwd_tutorials": "Các hướng dẫn",
+
+    "mnu_licenses_dsc": "Tài nguyên đã được chỉnh sửa để sử dụng trong trò chơi này.",
+    "kwd_bgms": "Nhạc nền",
+    "kwd_sfxs": "Âm thanh",
+    "kwd_fonts": "Phông chữ",
+
+
+    "kwd_units": "Đơn vị",
+    "kwd_unitsInfo": "Thông tin đơn vị",
+
+
+    "kwd_save": "Lưu",
+    "sve_msg_savingGame": "Đang lưu...",
+
+
+    "unt_lengthImperial_nme": "Chiều dài (hệ đo Anh-Mỹ)",
+    "unt_lengthImperial_dsc": "Inch (in), Feet (ft), Yards (yd)",
+
+    "unt_weightImperial_nme": "Khối lượng (hệ đo Anh-Mỹ)",
+    "unt_weightImperial_dsc": "Pound (lb), Ounce (oz)",
+
+    "unt_time_nme": "Thời gian",
+    "unt_time_dsc": "Giây (secs), Phút (mins), Giờ (hrs)",
+
+    "unt_lengthMetric_nme": "Chiều dài (hệ mét)",
+    "unt_lengthMetric_dsc": "Milimét (mm), Centimét (cm), Đêximét (dm), Mét (m), Ki-lô-mét (km)",
+
+    "unt_weightMetric_nme": "Khối lượng (hệ mét)",
+    "unt_weightMetric_dsc": "Miligam (mg), Gam (g) Ki-lô-gam (kg)",
+
+    "unt_capacity_nme": "Dung tích (hệ mét)",
+    "unt_capacity_dsc": "Lít (l), Mililit (mL)",
+
+
+    "unt_inches_nme": "Inch",
+    "unt_inches_sbl": "in",
+    "unt_feet_nme": "Feet",
+    "unt_feet_sbl": "ft",
+    "unt_yards_nme": "Yards",
+    "unt_yards_sbl": "yard",
+
+    "unt_millimeters_nme": "Milimét",
+    "unt_millimeters_sbl": "mm",
+    "unt_centimeters_nme": "Centimét",
+    "unt_centimeters_sbl": "cm",
+    "unt_decimeters_nme": "Đêximét",
+    "unt_decimeters_sbl": "dm",
+    "unt_meters_nme": "Mét",
+    "unt_meters_sbl": "m",
+    "unt_kilometers_nme": "Ki-lô-mét",
+    "unt_kilometers_sbl": "km",
+
+    "unt_pounds_nme": "Pound",
+    "unt_pounds_sbl": "lb",
+    "unt_ounces_nme": "Ounce",
+    "unt_ounces_sbl": "oz",
+    "unt_milligrams_nme": "Miligam",
+    "unt_milligrams_sbl": "mg",
+    "unt_grams_nme": "Gam",
+    "unt_grams_sbl": "g",
+    "unt_kilograms_nme": "Ki-lô-gam",
+    "unt_kilograms_sbl": "kg",
+
+    "unt_seconds_nme": "Giây",
+    "unt_seconds_sbl": "secs",
+    "unt_minutes_nme": "Phút",
+    "unt_minutes_sbl": "mins",
+    "unt_hours_nme": "Giờ",
+    "unt_hours_sbl": "hrs",
+
+    "unt_milliliters_nme": "Mililit",
+    "unt_milliliters_sbl": "mL",
+    "unt_liters_nme": "Lít",
+    "unt_liters_sbl": "l",
+
+
+    "kwd_input": "Nhập",
+    "kwd_output": "Kết quả",
+    "kwd_switch": "Chuyển",
+
+
+    "kwd_one": "Một",
+    "kwd_two": "Hai",
+    "kwd_three": "Ba",
+    "kwd_four": "Bốn",
+    "kwd_five": "Năm",
+
+    "kwd_six": "Sáu",
+    "kwd_seven": "Bảy",
+    "kwd_eight": "Tám",
+    "kwd_nine": "Chín",
+    "kwd_zero": "Không",
+
+    "kwd_decimalPoint": "Dấu thập phân",
+    "kwd_multiply": "Nhân",
+    "kwd_divide": "Chia",
+    "kwd_equals": "Bằng",
+
+    "kwd_backspace": "Xóa lùi",
+    "kwd_delete": "Xóa",
+    "kwd_clear": "Xóa",
+    "kwd_clear_sbl": "C",
+
+    "kwd_error": "Lỗi",
+
+
+    "kwd_world": "Thế giới",
+    "kwd_stageSelect": "Chọn màn",
+    "kwd_stage": "Màn chơi",
+
+    "kwd_all": "Tất cả",
+    "kwd_none": "Không có",
+
+    "stg_mix1_nme": "Trộn 1",
+    "stg_mix1_dsc": "Chiều dài (hệ đo Anh-Mỹ), Khối lượng (hệ đo Anh-Mỹ), Thời gian",
+
+    "stg_mix2_nme": "Trộn 2",
+    "stg_mix2_dsc": "Chiều dài (hệ mét), Khối lượng (hệ mét), Dung tích (hệ mét)",
+
+    "stg_mix3_nme": "Trộn 3",
+    "stg_mix3_dsc": "Tất cả",
+
+
+    "kwd_time": "Thời gian",
+    "kwd_score": "Điểm số",
+    "kwd_points": "Điểm",
+    "kwd_combo": "Chuỗi combo",
+    "kwd_highestCombo": "Chuỗi combo cao nhất",
+    "kwd_restart": "Chơi lại",
+    "kwd_speed": "Tốc độ",
+
+
+    "kwd_correct": "Đúng rồi!",
+    "kwd_incorrect": "Sai rồi!",
+
+
+    "kwd_stageEnd": "Kết thúc màn",
+    "kwd_stageClear": "Hoàn thành màn",
+    "kwd_stageWon": "Thắng màn",
+    "kwd_stageFailed": "Thất bại ở màn",
+    "kwd_stageLost": "Thua màn",
+
+
+    "chr_partnerA_nme": "Reteor",
+    "chr_partnerB_nme": "Astrite",
+
+
+    "trl_intro_00": "Chào mừng đến với Đội Tấn Công Thiên Thạch (MST)! Chúng tôi theo dõi các thiên thạch và phá hủy chúng trước khi chúng chạm vào bề mặt Trái Đất, bằng cách đổi các đơn vị đo lớn hơn sang các đơn vị đo nhỏ hơn. Đây là khu vực thế giới, nơi bạn chọn màn chơi, xem thông tin đơn vị, thay đổi cài đặt trò chơi, và lưu trò chơi của mình. Tôi là Reteor...",
+    "trl_intro_01": "Và tôi là Astrite! Khi bạn chọn một màn, các đơn vị bạn sẽ làm việc cùng sẽ được hiển thị. Khi thông tin này được đưa ra, nó sẽ được thêm vào 'menu thông tin đơn vị', có thể xem bằng 'nút thông tin đơn vị'. Sau khi đã giải thích xong, hãy chọn màn có sẵn để bắt đầu phá hủy thiên thạch!",
+
+    "trl_firstStage_00": "Chào mừng bạn đến với khu vực màn chơi, nơi bạn sẽ bắn hạ thiên thạch. Khi một thiên thạch được nhắm mục tiêu, bạn sẽ được đưa ra một phép đổi để giải. Nếu phép đổi đúng, bạn sẽ nhận điểm, và khi bạn có đủ điểm, màn chơi sẽ hoàn thành. Nhưng nếu bề mặt Trái Đất bị hư hại quá nhiều, bạn sẽ thua màn.",
+    "trl_firstStage_01": "Thiên thạch sẽ được tự động nhắm mục tiêu, nhưng bạn cũng có thể tự nhắm mục tiêu các thiên thạch đứng yên bằng cách nhấp/chạm vào chúng. Khi một thiên thạch được nhắm mục tiêu, bạn sẽ thấy các kết quả đổi khác nhau và các hệ số đã dùng để tạo ra chúng. Sau khi bạn chọn một kết quả (cách chọn sẽ khác nhau tùy màn), một tia laser sẽ bắn vào thiên thạch đã được nhắm.",
+    "trl_firstStage_02": "Nếu bạn chọn đúng kết quả, thiên thạch được nhắm mục tiêu sẽ bị phá hủy, màn hình nhấp nháy màu xanh lá, và chữ \"Đúng rồi!\" sẽ hiện ở dưới cùng cửa sổ màn chơi. Nếu bạn chọn sai kết quả, thiên thạch được nhắm mục tiêu sẽ tiến gần hơn đến bề mặt Trái Đất, bạn sẽ bị choáng trong chốc lát, màn hình nhấp nháy màu xanh dương, và chữ \"Sai rồi!\" sẽ hiện ở dưới cùng cửa sổ màn chơi. Đáng chú ý là, một khi thiên thạch xuất hiện, nó chỉ di chuyển khi bị trúng một phát laser nhưng không bị phá hủy.",
+    "trl_firstStage_03": "Bên trái là thanh điểm, thanh máu bề mặt, và máy tính. Bên phải là nút cài đặt, nút thế giới, và bảng đổi đơn vị. \"Bảng đổi đơn vị\" hiển thị tất cả các phép đổi đơn vị cho nhóm đơn vị hiện tại. Nếu bạn gặp khó khăn khi tìm kết quả đúng, hãy thử dùng máy tính để giải phương trình. Nói vậy là đủ rồi, đến lúc bắt đầu màn chơi thôi!",
+
+    "trl_hiddenMultiples_00": "Các hệ số đã bị ẩn đi! Nếu bạn thực hiện đủ nhiều phép đổi đúng liên tiếp, các hệ số đổi sẽ biến mất. Chúng sẽ hiện lại sau một lúc, nhưng chờ đến lúc đó sẽ làm màn chơi kéo dài hơn. Nếu bạn làm sai một phép đổi, các hệ số sẽ bắt đầu hiện lại ngay như trước, trừ khi bạn lại có đủ câu trả lời đúng liên tiếp.",
+
+    "trl_barrier_00": "Một lá chắn đã bị trúng! Khi một thiên thạch đâm vào lá chắn, thiên thạch sẽ bị phá hủy. Lá chắn bị hư hại và màn hình nhấp nháy màu cam. Nếu lá chắn bị hư quá nhiều, nó sẽ bị phá hủy, tạo ra một khe hở để thiên thạch có thể chạm vào bề mặt Trái Đất và làm hư hại nó. Khi bạn có đủ điểm, một lá chắn sẽ được phục hồi.",
+
+    "trl_surface_00": "Bề mặt Trái Đất đã bị hư hại! Khi bề mặt bị hư hại, màn hình sẽ nhấp nháy đỏ. Nhớ nhé: nếu bề mặt bị hư quá nhiều, bạn sẽ thua màn.",
+
+    "trl_pzl_buttons": "Đây là một câu đố nút đơn vị! Hãy nộp một kết quả bằng cách chọn nút mà nó gắn với.",
+
+    "trl_pzl_swap": "Đây là một câu đố đổi chỗ! Các ký hiệu trong khu vực câu đố sẽ đổi vị trí khi thanh thời gian trong khu vực câu đố cạn hết. Hãy chọn một kết quả bằng một trong các ký hiệu tương ứng của nó trong khu vực câu đố.",
+
+    "trl_pzl_slide": "Đây là một câu đố trượt! Các ký hiệu trượt qua khu vực câu đố khi một thiên thạch được nhắm mục tiêu. Hãy chọn một kết quả bằng một trong các ký hiệu tương ứng của nó trong khu vực câu đố.",
+
+    "trl_pzl_path": "Đây là một câu đố đường đi! Các ký hiệu di chuyển dọc theo đường đi trong khu vực câu đố khi một thiên thạch được nhắm mục tiêu. Hãy chọn một kết quả bằng ký hiệu tương ứng của nó trong khu vực câu đố.",
+
+    "trl_firstWin_00": "Bạn đã hoàn thành màn đầu tiên, và điều đó đã mở khóa thêm nhiều màn nữa! Bạn vượt qua càng nhiều màn, bạn sẽ mở khóa càng nhiều màn hơn. Trong số các màn hiện có, bạn có thể hoàn thành chúng theo bất kỳ thứ tự nào, nhưng bạn phải thắng tất cả các màn để hoàn thành trò chơi.",
+
+    "trl_mixStage_00": "Đây là một màn trộn. Các màn trộn yêu cầu bạn xử lý nhiều nhóm đơn vị cùng lúc. Bạn chỉ gặp màn trộn sau khi đã trải nghiệm tất cả các nhóm đơn vị liên quan.",
+
+    "trl_lengthImperial_00": "Những đơn vị này được dùng để đo độ dài của một vật.",
+
+    "trl_weightImperial_00": "Những đơn vị này được dùng để đo một vật nặng đến mức nào.",
+
+    "trl_time_00": "Những đơn vị này được dùng để đo độ dài của thời gian.",
+
+    "trl_lengthMetric_00": "Những đơn vị này được dùng để đo độ dài của một vật.",
+
+    "trl_weightMetric_00": "Những đơn vị này được dùng để đo một vật nặng đến mức nào.",
+
+    "trl_capacity_00": "Những đơn vị này được dùng để đo lượng chất lỏng mà một vật chứa có thể chứa.",
+
+
+    "kwd_gameComplete": "Hoàn thành trò chơi!",
+
+    "kwd_results": "Kết quả",
+
+    "kwd_gameTime": "Thời gian chơi",
+    "kwd_gameScore": "Điểm trò chơi",
+    "kwd_finish": "Hoàn thành"
   }
 }
